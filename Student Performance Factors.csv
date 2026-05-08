@@ -1,0 +1,1001 @@
+Register_Id,Hours_Studied,Attendance,Parental_Involvement,Access_to_Resources,Extracurricular_Activities,Sleep_Hours,Previous_Scores,Internet_Access,Tutoring_Sessions,Family_Income,Teacher_Quality,School_Type,Physical_Activity,Learning_Disabilities,Parental_Education_Level,Gender,Exam_Score
+SN1001,23,84,Low,High,No,7,73,Yes,0,Low,Medium,Public,3,No,High School,Male,67
+SN1002,19,64,Low,Medium,No,8,59,Yes,2,Medium,Medium,Public,4,No,College,Female,61
+SN1003,24,98,Medium,Medium,Yes,7,91,Yes,2,Medium,Medium,Public,4,No,Postgraduate,Male,74
+SN1004,29,89,Low,Medium,Yes,8,98,Yes,1,Medium,Medium,Public,4,No,High School,Male,71
+SN1005,19,92,Medium,Medium,Yes,6,65,Yes,3,Medium,High,Public,4,No,College,Female,70
+SN1006,19,88,Medium,,Yes,8,89,Yes,3,Medium,Medium,Public,3,No,Postgraduate,Male,71
+SN1007,29,84,Medium,Low,Yes,7,68,Yes,1,Low,Medium,Private,2,No,High School,Male,67
+SN1008,25,78,Low,High,Yes,6,50,Yes,1,High,High,Public,2,No,High School,Male,66
+SN1009,17,94,Medium,High,No,6,80,,0,Medium,Low,Private,1,No,College,Male,69
+SN1010,23,98,Medium,Medium,Yes,8,71,Yes,0,High,High,Public,,No,High School,Male,72
+SN1011,17,80,Low,High,No,8,88,No,4,Medium,High,Private,4,No,College,Male,68
+SN1012,17,97,Medium,High,Yes,6,87,Yes,2,Low,High,Private,2,No,High School,Male,71
+SN1013,21,,Medium,Medium,Yes,8,97,Yes,2,Medium,Medium,Public,4,No,High School,Male,70
+SN1014,9,82,Medium,Medium,Yes,8,72,Yes,2,Medium,Medium,Private,3,No,Postgraduate,Male,66
+SN1015,10,78,Medium,High,Yes,8,74,Yes,1,Low,Medium,Private,4,No,Postgraduate,Male,65
+SN1016,17,68,,Medium,No,8,70,Yes,2,Medium,Medium,Private,4,No,High School,Female,64
+SN1017,14,60,Medium,Low,Yes,10,65,Yes,0,High,Medium,Private,3,No,College,Male,60
+SN1018,22,70,Low,Medium,Yes,6,82,Yes,1,Low,High,Public,3,No,High School,Female,65
+SN1019,15,80,Medium,Medium,Yes,9,91,Yes,3,Low,Medium,Public,2,No,College,Female,67
+SN1020,12,75,Medium,High,Yes,7,58,Yes,3,Medium,Medium,Private,4,,College,Male,66
+SN1021,29,78,Medium,Medium,No,5,99,Yes,0,High,Medium,Public,1,No,High School,Female,69
+SN1022,19,,Medium,High,No,6,84,Yes,1,Medium,High,Public,3,No,High School,Male,72
+SN1023,20,74,Medium,High,No,8,89,Yes,1,Medium,Medium,Public,2,No,College,Female,66
+SN1024,11,78,High,Medium,Yes,8,100,,1,Low,Medium,Public,3,No,High School,Male,66
+SN1025,17,65,Low,High,Yes,5,75,Yes,2,Low,Medium,Public,3,No,High School,Female,63
+SN1026,21,62,High,Low,Yes,6,54,Yes,0,High,High,Public,3,No,Postgraduate,Male,64
+SN1027,13,91,Low,Medium,No,6,90,Yes,1,High,Medium,Public,,Yes,High School,Female,65
+SN1028,22,83,High,,Yes,6,94,Yes,0,High,Medium,Public,2,No,College,Male,71
+SN1029,16,90,Medium,Medium,No,4,58,Yes,1,Low,Medium,Public,3,No,High School,Female,66
+SN1030,18,66,High,High,No,4,51,Yes,2,Low,Medium,Private,2,No,College,Male,64
+SN1031,16,83,Low,Medium,No,6,57,Yes,0,High,Low,Public,4,Yes,High School,Female,63
+SN1032,31,70,Medium,High,Yes,7,66,Yes,1,High,Medium,Public,3,No,College,Male,69
+SN1033,20,69,Medium,Medium,Yes,8,96,Yes,2,Medium,High,Public,3,No,High School,Male,67
+SN1034,14,60,High,Medium,No,5,50,Yes,2,Medium,Medium,Public,3,No,College,Female,61
+SN1035,25,65,High,Medium,No,5,90,Yes,2,Medium,Medium,Public,3,No,College,Female,68
+SN1036,13,72,Low,Medium,No,6,93,,1,Low,Medium,Public,3,No,High School,Male,61
+SN1037,21,65,Medium,Low,Yes,7,91,Yes,2,Medium,High,Public,,No,High School,Female,64
+SN1038,8,99,Medium,Medium,No,9,54,Yes,2,Low,Medium,Public,5,No,Postgraduate,Female,67
+SN1039,12,72,Low,,Yes,8,84,Yes,1,Low,Medium,Public,5,No,High School,Female,63
+SN1040,21,,Low,Medium,Yes,6,98,Yes,1,Medium,High,Public,4,No,High School,Male,64
+SN1041,24,68,High,Medium,No,8,56,Yes,3,High,High,Public,1,No,College,Male,67
+SN1042,21,84,Medium,Medium,Yes,6,52,Yes,1,Medium,High,Public,2,Yes,College,Female,65
+SN1043,19,63,Low,High,No,7,94,Yes,1,Medium,Medium,Private,3,No,High School,Male,64
+SN1044,18,94,Medium,High,Yes,7,82,Yes,3,Medium,Medium,Private,2,Yes,College,Male,70
+SN1045,11,98,Medium,Medium,Yes,9,82,Yes,1,Medium,Medium,Private,3,No,Postgraduate,Male,68
+SN1046,16,70,Medium,Medium,Yes,8,98,Yes,2,Medium,Medium,Public,3,No,High School,Male,65
+SN1047,17,78,Medium,Medium,Yes,6,88,Yes,1,Medium,High,Private,3,No,College,Female,68
+SN1048,26,61,Medium,Low,Yes,6,70,Yes,2,Low,Medium,Public,3,,High School,Female,64
+SN1049,22,86,Low,Medium,Yes,7,72,Yes,3,Low,High,Public,2,No,High School,Male,68
+SN1050,9,77,Medium,Medium,No,5,57,,2,Medium,High,Public,3,No,High School,Male,63
+SN1051,22,71,Low,Medium,Yes,7,65,Yes,1,Medium,Low,Public,,No,College,Male,64
+SN1052,18,68,High,Medium,No,7,72,Yes,0,Medium,Medium,Public,3,No,College,Male,64
+SN1053,16,86,Low,Medium,Yes,8,63,Yes,2,Medium,Medium,Public,4,No,High School,Male,67
+SN1054,24,77,High,Low,No,8,96,Yes,0,Medium,Medium,Public,3,No,High School,Female,67
+SN1055,26,67,Medium,,Yes,7,51,Yes,2,High,High,Private,4,Yes,Postgraduate,Female,66
+SN1056,26,88,Medium,High,Yes,5,79,Yes,1,Low,High,Private,4,No,College,Male,72
+SN1057,15,83,Medium,High,No,5,89,No,1,Medium,High,Public,2,Yes,High School,Female,65
+SN1058,18,94,Medium,Medium,Yes,6,87,Yes,1,Medium,Medium,Public,4,No,High School,Male,71
+SN1059,22,65,High,Low,No,8,82,Yes,2,Medium,High,Public,1,No,Postgraduate,Female,66
+SN1060,26,91,Medium,Low,Yes,8,71,Yes,0,Low,Medium,Private,3,No,High School,Male,68
+SN1061,17,87,Medium,Medium,No,7,96,Yes,1,High,Medium,Public,5,No,Postgraduate,Female,70
+SN1062,19,65,Medium,Medium,Yes,10,66,Yes,0,Low,Medium,Public,,No,High School,Male,62
+SN1063,13,88,Low,High,Yes,9,88,Yes,2,Low,High,Private,4,No,Postgraduate,Male,68
+SN1064,13,78,Medium,High,Yes,9,96,Yes,2,Low,Medium,Public,3,No,College,Male,67
+SN1065,25,98,Low,High,Yes,8,56,No,0,Medium,High,Private,,No,Postgraduate,Male,71
+SN1066,28,66,Medium,High,Yes,8,97,Yes,0,Medium,Medium,Public,2,No,High School,Male,68
+SN1067,20,86,Medium,Medium,Yes,8,89,Yes,1,Low,Medium,Public,3,No,Postgraduate,Male,69
+SN1068,26,75,Low,High,Yes,4,81,Yes,3,Medium,High,Private,2,No,High School,Male,70
+SN1069,22,98,Medium,High,No,5,69,No,1,Low,High,Public,4,No,High School,Female,69
+SN1070,16,73,Medium,Medium,No,7,95,Yes,1,Low,Medium,Public,4,No,College,Male,65
+SN1071,22,98,Medium,Low,Yes,7,52,No,3,Medium,Medium,Public,3,No,College,Female,70
+SN1072,29,96,Medium,,Yes,7,72,Yes,1,Low,Medium,Public,3,No,High School,Male,71
+SN1073,20,71,Medium,Medium,Yes,7,88,Yes,1,Low,Low,Public,4,No,College,Female,65
+SN1074,29,92,Low,Medium,No,4,91,Yes,2,Medium,Medium,Public,1,,Postgraduate,Female,72
+SN1075,4,100,High,High,Yes,8,60,Yes,0,Medium,High,Private,4,No,College,Male,69
+SN1076,25,70,Medium,Medium,No,7,52,Yes,1,Medium,Medium,Public,3,No,Postgraduate,Female,66
+SN1077,21,77,Low,Medium,Yes,7,90,Yes,4,Medium,Medium,Private,3,No,Postgraduate,Male,68
+SN1078,18,81,High,Low,Yes,8,71,Yes,0,Medium,Medium,Public,3,No,High School,Female,65
+SN1079,21,72,Medium,Medium,Yes,5,57,Yes,1,High,Medium,Public,5,Yes,College,Male,64
+SN1080,8,61,Medium,Medium,Yes,7,54,Yes,1,High,Medium,Public,3,No,College,Male,60
+SN1081,19,69,Medium,High,Yes,7,82,,1,Low,Medium,Public,2,No,High School,Male,65
+SN1082,22,71,High,Medium,No,6,79,Yes,1,Low,Low,Public,3,No,High School,Male,66
+SN1083,29,78,High,High,Yes,4,93,Yes,5,Medium,High,Public,,No,College,Male,74
+SN1084,17,67,Medium,Medium,Yes,5,52,Yes,2,Medium,Medium,Private,3,No,High School,Female,62
+SN1085,15,95,Medium,Medium,No,7,93,Yes,2,Low,Medium,Public,4,No,College,Male,70
+SN1086,17,88,Medium,High,Yes,7,94,Yes,0,Medium,Medium,Public,3,No,High School,Male,69
+SN1087,25,63,Medium,High,Yes,7,72,Yes,3,Medium,High,Private,4,,College,Male,67
+SN1088,22,86,Low,Low,No,6,54,Yes,2,Medium,Medium,Public,0,No,High School,Male,64
+SN1089,17,86,Medium,High,No,5,97,Yes,3,High,Medium,Public,3,No,College,Male,71
+SN1090,23,98,Medium,Low,Yes,7,54,Yes,0,Medium,Medium,Public,3,No,College,Female,68
+SN1091,21,60,High,,No,7,80,Yes,0,Medium,High,Public,4,Yes,College,Male,64
+SN1092,26,70,Medium,Low,Yes,8,75,Yes,1,Medium,Low,Private,4,Yes,High School,Female,63
+SN1093,16,,Medium,Medium,Yes,6,92,Yes,0,High,Medium,Private,4,No,College,Male,71
+SN1094,18,97,High,Medium,Yes,4,75,Yes,0,Low,Medium,Public,3,No,High School,Male,69
+SN1095,18,89,High,Medium,Yes,4,73,Yes,3,High,Medium,Private,2,No,College,Female,100
+SN1096,11,91,Medium,Medium,No,6,94,Yes,3,Medium,Medium,Public,3,No,College,Male,68
+SN1097,22,64,Low,Medium,No,7,98,No,1,Medium,Medium,Public,3,No,High School,Male,62
+SN1098,22,81,Medium,Medium,Yes,7,77,Yes,2,Medium,Medium,Public,3,No,Postgraduate,Female,68
+SN1099,20,69,High,High,Yes,6,73,Yes,2,Low,Medium,Private,,No,High School,Male,66
+SN1100,19,67,Low,Medium,No,5,92,Yes,0,Medium,Medium,Public,3,No,College,Male,64
+SN1101,12,92,Medium,Medium,No,4,92,Yes,2,Medium,High,Public,3,Yes,High School,Male,67
+SN1102,17,65,Medium,High,Yes,8,66,Yes,1,High,High,Public,4,Yes,Postgraduate,Female,65
+SN1103,18,79,Medium,Medium,Yes,7,79,Yes,0,Low,High,Private,3,No,College,Male,65
+SN1104,15,98,High,Medium,No,6,58,,0,Low,High,Public,3,No,College,Male,69
+SN1105,19,67,Medium,Medium,No,5,82,Yes,1,Low,Low,Private,3,No,High School,Male,63
+SN1106,22,99,Medium,Low,Yes,6,92,Yes,3,Medium,Medium,Public,4,No,Postgraduate,Male,72
+SN1107,31,100,Medium,Medium,No,7,59,Yes,2,High,High,Public,5,No,Postgraduate,Male,76
+SN1108,21,82,Medium,High,Yes,7,66,Yes,3,Low,Medium,Public,3,Yes,College,Female,69
+SN1109,22,67,Medium,Medium,Yes,7,72,Yes,3,Low,High,Public,2,No,Postgraduate,Female,67
+SN1110,20,73,High,Medium,Yes,9,92,Yes,2,Medium,High,Public,3,No,College,Male,69
+SN1111,8,77,High,Medium,Yes,6,87,Yes,0,Low,Medium,Public,2,No,High School,Male,63
+SN1112,20,72,Medium,Medium,No,9,66,Yes,3,Low,High,Private,3,No,Postgraduate,Male,67
+SN1113,20,,Low,High,Yes,7,62,Yes,2,Medium,Medium,Public,5,No,College,Male,66
+SN1114,35,99,High,High,Yes,7,85,Yes,2,Medium,High,Private,2,No,Postgraduate,Female,79
+SN1115,19,66,Medium,Medium,No,8,74,Yes,1,High,Medium,Public,3,No,High School,Female,64
+SN1116,22,89,High,High,Yes,6,80,Yes,1,High,High,Public,3,No,High School,Female,73
+SN1117,20,60,Low,High,No,7,82,Yes,2,Low,High,Public,,Yes,High School,Male,63
+SN1118,13,84,Medium,Medium,No,5,78,,1,Low,High,Public,2,No,High School,Male,65
+SN1119,27,97,Low,High,Yes,8,81,Yes,0,High,Medium,Public,5,No,High School,Female,73
+SN1120,25,72,High,High,Yes,8,94,Yes,2,Low,Medium,Private,4,No,College,Female,70
+SN1121,25,67,High,Medium,No,9,93,Yes,2,Low,High,Public,3,Yes,High School,Female,68
+SN1122,15,86,Medium,Medium,Yes,7,57,Yes,1,Medium,Medium,Public,3,No,College,Male,65
+SN1123,28,89,Low,High,Yes,9,79,Yes,0,Low,Medium,Private,1,No,College,Female,71
+SN1124,12,88,Low,Medium,No,6,72,Yes,2,Medium,Medium,Public,2,No,College,Male,64
+SN1125,24,73,Medium,High,Yes,8,64,Yes,4,High,Medium,Private,3,Yes,College,Male,68
+SN1126,33,70,Medium,Medium,Yes,6,82,Yes,1,Low,High,Public,4,No,College,Male,69
+SN1127,14,98,Medium,Medium,No,7,76,Yes,0,Medium,High,Private,4,,College,Female,69
+SN1128,17,97,Medium,Medium,No,8,89,Yes,1,Low,,Public,4,No,High School,Male,69
+SN1129,21,78,Medium,Medium,Yes,10,55,Yes,1,High,Low,Private,2,No,College,Male,67
+SN1130,17,94,Low,Medium,Yes,8,65,Yes,4,Medium,Medium,Public,6,No,High School,Female,68
+SN1131,11,78,Medium,High,Yes,8,51,Yes,2,Low,Medium,Public,3,No,Postgraduate,Male,64
+SN1132,20,77,Medium,Medium,No,6,87,Yes,0,Low,High,Public,4,No,High School,Female,66
+SN1133,14,66,High,Low,No,7,96,,3,Low,High,Public,3,No,High School,Male,63
+SN1134,23,77,Medium,Medium,Yes,7,79,Yes,0,Low,High,Public,2,No,High School,Male,66
+SN1135,14,81,Medium,Medium,No,9,81,Yes,1,Low,High,Private,3,No,Postgraduate,Female,66
+SN1136,29,61,Medium,High,Yes,7,52,Yes,3,Low,Medium,Private,3,No,College,Female,67
+SN1137,15,78,High,High,No,9,75,Yes,1,Low,Medium,Public,1,No,High School,Male,65
+SN1138,18,91,Low,Medium,Yes,5,76,Yes,1,Medium,Medium,Public,3,No,High School,Female,68
+SN1139,25,87,Medium,Low,No,9,52,Yes,1,Low,High,Private,2,No,High School,Male,68
+SN1140,13,85,High,Medium,No,6,89,Yes,0,High,Medium,Private,1,Yes,High School,Male,65
+SN1141,21,96,Medium,Medium,No,8,64,Yes,2,Medium,High,Public,0,No,College,Male,71
+SN1142,28,61,Medium,High,No,6,86,Yes,1,Low,Medium,Private,3,Yes,Postgraduate,Male,65
+SN1143,10,82,Medium,Low,No,8,70,Yes,3,Low,High,Public,1,Yes,Postgraduate,Female,64
+SN1144,21,91,High,Medium,No,6,100,Yes,0,High,Medium,Private,2,No,Postgraduate,Female,72
+SN1145,22,82,Medium,Medium,No,9,61,Yes,2,Low,Medium,Public,2,Yes,High School,Female,65
+SN1146,25,73,Medium,High,No,8,53,No,0,Low,High,Private,5,No,Postgraduate,Female,66
+SN1147,13,65,Low,High,No,6,99,Yes,0,Low,Medium,Private,4,No,High School,Male,61
+SN1148,12,96,Low,High,Yes,8,62,Yes,2,Medium,High,Public,3,No,College,Female,68
+SN1149,23,79,High,High,Yes,8,82,Yes,3,Medium,Medium,Public,3,Yes,Postgraduate,Female,69
+SN1150,22,95,Medium,High,Yes,6,69,,1,Low,Medium,Public,3,No,College,Female,72
+SN1151,22,83,Medium,High,Yes,5,82,Yes,2,Low,High,Public,3,No,Postgraduate,Female,71
+SN1152,22,87,High,High,No,5,80,Yes,2,Low,High,Public,3,No,High School,Female,70
+SN1153,16,92,Medium,High,Yes,5,85,Yes,1,Low,Medium,Public,2,No,High School,Male,68
+SN1154,21,86,Low,Medium,Yes,5,51,Yes,2,Low,High,Public,2,No,High School,Female,67
+SN1155,22,76,Medium,Medium,Yes,8,92,Yes,1,Low,High,Public,4,No,High School,Female,68
+SN1156,16,81,Medium,Medium,Yes,8,74,Yes,3,Medium,Medium,Public,2,No,Postgraduate,Female,68
+SN1157,31,92,Medium,Medium,Yes,4,76,Yes,2,Medium,High,Public,4,Yes,High School,Male,72
+SN1158,23,75,Low,High,No,6,71,Yes,0,Medium,Medium,Public,2,No,College,Male,65
+SN1159,13,76,Medium,High,No,5,99,Yes,2,Medium,Medium,Private,4,,High School,Female,66
+SN1160,24,64,Medium,Medium,Yes,8,90,Yes,0,Low,High,Public,3,No,High School,Male,65
+SN1161,14,97,Medium,Medium,Yes,6,66,Yes,2,Medium,Medium,Public,3,Yes,College,Female,67
+SN1162,25,64,Medium,High,No,5,89,Yes,2,Medium,Medium,Public,4,No,College,Male,66
+SN1163,27,86,Medium,Medium,No,7,72,Yes,1,Medium,High,Public,4,No,High School,Male,69
+SN1164,15,77,Medium,Medium,Yes,8,94,Yes,0,High,High,Public,3,No,College,Male,66
+SN1165,26,76,Medium,High,Yes,6,52,Yes,4,High,Low,Public,3,No,High School,Male,69
+SN1166,22,87,High,Low,Yes,7,68,No,0,Low,Medium,Public,2,No,High School,Male,67
+SN1167,25,63,High,Medium,Yes,6,71,Yes,1,Medium,Low,Private,3,No,High School,Male,66
+SN1168,31,84,Medium,Medium,Yes,9,87,Yes,2,Low,Medium,Private,3,No,College,Male,71
+SN1169,19,91,High,Low,No,6,59,,5,Medium,High,Public,4,No,College,Male,70
+SN1170,15,93,High,Medium,No,6,64,Yes,2,Medium,High,Public,4,No,Postgraduate,Male,71
+SN1171,15,67,Medium,Medium,Yes,7,86,Yes,1,High,Medium,Private,3,No,Postgraduate,Male,66
+SN1172,15,96,Medium,Medium,No,7,54,No,3,Medium,High,Public,2,No,High School,Male,67
+SN1173,20,86,High,Low,No,8,60,Yes,1,Medium,Medium,Public,4,Yes,College,Female,66
+SN1174,22,95,Medium,High,No,9,88,Yes,0,Low,High,Public,2,No,Postgraduate,Male,72
+SN1175,22,79,Medium,Medium,No,9,94,Yes,1,Medium,Medium,Public,3,No,High School,Male,68
+SN1176,25,82,Medium,Medium,No,6,86,No,3,Low,High,Public,3,No,High School,Female,69
+SN1177,20,97,Medium,Medium,Yes,7,76,Yes,2,Low,Low,Private,3,No,Postgraduate,Male,71
+SN1178,29,96,Medium,Medium,Yes,9,55,No,0,Medium,Medium,Public,2,No,Postgraduate,Female,70
+SN1179,18,78,Medium,Medium,No,9,91,Yes,2,High,Low,Public,4,No,College,Female,67
+SN1180,36,71,Medium,Medium,Yes,6,56,Yes,2,High,Medium,Public,2,No,High School,Male,69
+SN1181,24,76,Low,High,No,8,69,,2,Medium,Medium,Public,1,No,High School,Male,65
+SN1182,15,76,High,High,No,8,53,Yes,1,Low,Medium,Public,4,No,College,Male,65
+SN1183,14,71,Medium,Medium,Yes,8,85,Yes,2,Medium,High,Public,4,No,High School,Male,64
+SN1184,23,71,Low,Low,Yes,9,75,Yes,1,Low,Medium,Public,2,No,College,Male,63
+SN1185,19,94,Low,Medium,Yes,5,95,Yes,3,Low,Low,Public,2,No,High School,Male,69
+SN1186,24,63,Medium,Low,Yes,6,57,Yes,1,Low,High,Private,5,No,College,Female,64
+SN1187,23,87,High,High,Yes,8,91,Yes,0,High,Medium,Private,3,No,High School,Male,72
+SN1188,20,67,Low,Medium,Yes,7,76,Yes,0,Medium,Medium,Public,4,No,High School,Male,63
+SN1189,15,74,Low,High,Yes,4,68,Yes,3,Low,Medium,Public,3,,High School,Female,64
+SN1190,11,62,Medium,High,Yes,5,82,Yes,3,High,Medium,Private,4,No,College,Male,64
+SN1191,17,71,Medium,Medium,Yes,8,90,Yes,5,Medium,Medium,Public,1,No,Postgraduate,Male,67
+SN1192,25,91,Medium,Medium,No,8,72,Yes,2,Medium,High,Public,0,No,Postgraduate,Male,71
+SN1193,21,95,Medium,Medium,No,5,62,Yes,1,Medium,Low,Public,4,No,High School,Male,70
+SN1194,13,69,Medium,Low,Yes,9,96,Yes,0,High,Medium,Private,4,No,High School,Female,61
+SN1195,21,79,Medium,High,Yes,7,66,Yes,2,Low,Medium,Public,4,No,College,Male,67
+SN1196,22,79,High,Medium,No,5,100,Yes,4,High,High,Public,3,No,College,Male,72
+SN1197,15,95,Low,Low,Yes,6,88,,1,Low,Medium,Public,5,No,High School,Male,66
+SN1198,21,91,Medium,High,Yes,5,84,Yes,1,High,Low,Public,2,No,High School,Male,70
+SN1199,20,81,High,Medium,Yes,6,51,No,3,Medium,Medium,Public,4,Yes,High School,Male,67
+SN1200,13,,High,Low,Yes,4,72,Yes,2,Medium,High,Public,3,No,High School,Female,67
+SN1201,22,94,Low,Medium,Yes,7,75,Yes,2,High,Medium,Public,2,No,College,Female,71
+SN1202,23,60,High,Medium,Yes,8,69,Yes,1,Low,Medium,Private,4,No,College,Male,66
+SN1203,26,76,Medium,Medium,Yes,5,57,Yes,1,Medium,Medium,Public,4,No,High School,Male,68
+SN1204,26,96,Medium,Medium,Yes,7,68,Yes,3,High,Medium,Private,3,No,College,Female,74
+SN1205,12,90,Medium,Low,Yes,6,54,No,1,High,Medium,Public,3,No,High School,Male,64
+SN1206,14,82,Medium,Medium,No,8,65,Yes,1,Low,Medium,Private,3,No,College,Male,65
+SN1207,23,81,Low,Medium,Yes,4,54,Yes,1,Low,Medium,Public,3,No,College,Male,66
+SN1208,23,74,Medium,High,Yes,8,88,Yes,0,Medium,High,Public,3,Yes,High School,Male,66
+SN1209,23,81,Medium,Low,No,4,84,Yes,2,Medium,Medium,Public,5,No,High School,Male,68
+SN1210,43,86,High,Medium,Yes,7,97,,2,Medium,High,Public,1,No,High School,Female,78
+SN1211,23,77,Medium,High,Yes,6,69,Yes,1,Medium,Medium,Private,2,No,High School,Female,67
+SN1212,27,89,Medium,High,Yes,6,89,Yes,3,Medium,Medium,Private,3,No,High School,Male,74
+SN1213,26,94,Medium,High,No,5,79,Yes,1,Low,High,Public,2,No,Postgraduate,Male,74
+SN1214,24,66,Medium,Low,No,9,82,Yes,1,Medium,Medium,Public,2,Yes,High School,Female,62
+SN1215,18,78,High,Medium,Yes,5,77,No,2,Medium,Medium,Public,4,No,High School,Male,66
+SN1216,25,76,Medium,Medium,Yes,5,89,Yes,3,Medium,High,Public,3,No,High School,Female,69
+SN1217,15,87,Medium,High,Yes,10,52,Yes,2,Low,High,Private,3,No,College,Male,68
+SN1218,19,70,Medium,Low,No,7,54,Yes,0,Medium,Medium,Public,2,Yes,High School,Male,89
+SN1219,17,86,High,Low,No,5,55,No,2,High,Medium,Private,4,No,College,Male,66
+SN1220,20,95,Low,Medium,Yes,7,64,No,2,Medium,High,Public,3,No,High School,Female,68
+SN1221,34,77,Medium,Low,Yes,7,80,Yes,0,Medium,Medium,Public,3,No,High School,Male,69
+SN1222,9,96,Medium,Medium,Yes,4,82,No,0,Low,Medium,Public,4,No,College,Male,67
+SN1223,24,100,High,High,Yes,6,86,Yes,2,Medium,Medium,Private,5,No,High School,Male,75
+SN1224,10,64,Medium,High,No,7,64,Yes,0,Medium,Medium,Public,4,Yes,High School,Female,60
+SN1225,17,69,High,Medium,Yes,9,83,Yes,2,Medium,High,Private,4,Yes,College,Female,66
+SN1226,27,98,Low,High,Yes,7,56,Yes,1,High,Medium,Private,3,No,College,Female,73
+SN1227,20,98,Medium,Low,No,7,50,Yes,1,Medium,High,Private,2,No,High School,Female,68
+SN1228,14,64,Medium,Medium,Yes,6,85,Yes,0,Medium,Medium,Public,3,No,High School,Male,62
+SN1229,16,61,Medium,Medium,No,9,86,Yes,2,Low,High,Public,2,No,High School,Male,62
+SN1230,24,66,High,Low,Yes,8,81,,1,Medium,Medium,Public,4,No,High School,Male,65
+SN1231,16,100,High,Low,Yes,8,63,Yes,2,Low,Medium,Public,3,No,High School,Male,69
+SN1232,21,67,Medium,Medium,No,7,96,Yes,3,Low,Medium,Public,2,No,High School,Female,64
+SN1233,20,80,Medium,High,No,5,94,Yes,0,Low,Low,Private,4,Yes,Postgraduate,Female,67
+SN1234,16,94,High,High,Yes,9,76,Yes,0,Low,High,Public,2,No,High School,Male,70
+SN1235,33,61,Medium,Medium,No,7,99,Yes,2,Medium,High,Public,3,No,College,Female,70
+SN1236,24,84,High,Low,No,7,65,Yes,3,Medium,High,Public,3,No,High School,Female,69
+SN1237,8,71,High,Low,No,8,75,Yes,0,Medium,High,Public,3,No,High School,Male,61
+SN1238,21,94,Medium,Medium,No,7,96,Yes,0,Medium,Medium,Private,2,Yes,Postgraduate,Male,69
+SN1239,16,71,High,Medium,Yes,5,73,Yes,1,Medium,Medium,Public,0,Yes,High School,Male,63
+SN1240,25,87,Medium,Low,Yes,7,74,Yes,0,Medium,High,Public,4,Yes,High School,Male,67
+SN1241,15,87,Low,Medium,No,4,54,Yes,1,Medium,Medium,Public,6,No,,Male,65
+SN1242,19,69,Medium,Medium,Yes,7,61,,3,High,High,Public,4,No,High School,Male,66
+SN1243,23,61,Low,Medium,No,9,58,Yes,4,Medium,Medium,Public,2,No,High School,Male,63
+SN1244,25,76,Medium,High,Yes,4,78,Yes,2,Medium,Medium,Private,3,No,High School,Female,68
+SN1245,13,72,High,High,No,7,66,Yes,0,Low,High,Public,4,No,Postgraduate,Male,65
+SN1246,18,92,Low,Medium,Yes,8,54,Yes,1,Medium,Medium,Public,3,No,High School,Male,67
+SN1247,17,92,Low,Low,Yes,8,75,Yes,2,Medium,High,Public,3,No,Postgraduate,Female,68
+SN1248,16,78,Medium,High,No,6,83,Yes,0,Low,Low,Public,3,Yes,College,Male,64
+SN1249,31,84,Medium,Medium,No,5,87,Yes,0,Medium,Medium,Private,3,No,College,Male,71
+SN1250,22,84,Medium,Medium,Yes,6,92,Yes,0,Medium,Medium,Public,5,No,High School,Female,69
+SN1251,12,93,Medium,Medium,Yes,9,74,Yes,1,Medium,Medium,Public,3,No,Postgraduate,Male,67
+SN1252,26,77,Low,Medium,No,4,70,Yes,2,High,Low,Public,3,Yes,College,Female,65
+SN1253,33,71,Low,Medium,No,5,84,Yes,1,Medium,Medium,Public,2,No,High School,Male,68
+SN1254,26,71,High,Medium,Yes,6,51,No,1,High,Medium,Private,3,No,Postgraduate,Male,67
+SN1255,11,81,Medium,Medium,Yes,6,82,Yes,3,Medium,High,Public,4,No,High School,Male,67
+SN1256,17,78,Medium,High,Yes,7,70,No,2,Low,High,Public,3,No,High School,Male,66
+SN1257,28,78,High,Medium,No,9,73,Yes,2,Medium,Medium,Public,4,No,College,Female,70
+SN1258,16,64,High,Low,Yes,5,65,Yes,3,Medium,High,Private,4,No,Postgraduate,Female,65
+SN1259,23,89,Low,Low,Yes,7,56,Yes,4,Medium,Low,Private,4,No,Postgraduate,Female,69
+SN1260,25,69,Medium,Medium,Yes,7,70,No,1,High,High,Public,4,No,High School,Female,65
+SN1261,14,68,High,Medium,No,6,65,Yes,1,High,Medium,Public,3,Yes,College,Male,63
+SN1262,20,77,Medium,Medium,No,5,98,Yes,2,Low,High,Private,2,No,Postgraduate,Female,67
+SN1263,1,69,High,Medium,Yes,6,97,Yes,1,Low,Medium,Public,3,No,High School,Female,61
+SN1264,14,83,Medium,Low,Yes,6,82,Yes,0,Medium,Medium,Public,2,No,High School,Female,65
+SN1265,18,75,Low,High,Yes,8,95,,1,Low,Low,Public,2,No,College,Female,66
+SN1266,13,78,Medium,High,Yes,8,88,Yes,0,High,Low,Public,3,No,College,Male,66
+SN1267,30,81,Medium,Low,Yes,5,67,Yes,1,High,High,Public,1,No,High School,Male,69
+SN1268,11,68,Medium,Medium,No,6,80,Yes,2,Medium,Medium,Public,3,No,College,Female,63
+SN1269,17,66,Low,High,No,6,61,Yes,1,High,Medium,Public,6,No,Postgraduate,Male,65
+SN1270,21,95,Low,Low,No,10,84,Yes,0,High,Medium,Public,4,Yes,High School,Male,67
+SN1271,29,77,High,High,Yes,7,52,Yes,2,High,Medium,Public,3,Yes,High School,Female,69
+SN1272,11,76,Low,Medium,Yes,5,92,Yes,4,Medium,Low,Public,2,No,Postgraduate,Male,65
+SN1273,27,61,Medium,Medium,No,6,79,Yes,1,Low,Medium,Public,3,No,High School,Male,65
+SN1274,20,80,High,Low,Yes,6,53,Yes,0,Low,Medium,Public,2,No,College,Male,65
+SN1275,14,82,Medium,High,Yes,8,94,Yes,2,Low,High,Public,5,No,College,Female,67
+SN1276,23,82,Low,Medium,Yes,8,94,Yes,1,Medium,Medium,Public,2,Yes,High School,Male,66
+SN1277,21,88,Medium,High,No,7,93,,4,Low,Medium,Public,3,No,High School,Female,72
+SN1278,16,67,Medium,High,No,7,89,Yes,3,Low,Medium,Public,3,No,College,Male,66
+SN1279,20,70,Medium,Medium,Yes,7,84,No,2,Medium,High,Private,4,No,College,Male,65
+SN1280,18,92,High,Medium,Yes,7,70,Yes,1,Low,Medium,Public,3,No,High School,Male,69
+SN1281,21,98,Medium,Low,No,4,57,Yes,2,High,Low,Public,2,No,High School,Female,68
+SN1282,24,65,Medium,Low,No,7,64,Yes,1,High,Medium,Public,1,No,Postgraduate,Male,64
+SN1283,30,80,Low,High,No,6,67,Yes,3,Medium,Medium,Public,4,No,College,Female,69
+SN1284,13,69,Medium,Low,Yes,5,68,Yes,0,High,Medium,Public,1,Yes,High School,Female,59
+SN1285,33,62,High,Medium,Yes,10,78,Yes,0,Medium,Medium,Private,3,No,High School,Female,68
+SN1286,8,73,Medium,Medium,No,7,60,No,0,High,Medium,Private,3,No,High School,Female,60
+SN1287,19,66,Medium,High,No,7,59,Yes,1,High,Medium,Public,3,No,High School,Male,62
+SN1288,24,88,Low,Medium,Yes,6,86,Yes,0,Low,Low,Public,3,No,College,Male,67
+SN1289,22,81,Low,High,Yes,8,50,Yes,4,Medium,Medium,Private,5,No,High School,Female,68
+SN1290,16,66,Medium,High,Yes,5,57,Yes,3,Medium,Medium,Public,3,No,High School,Female,64
+SN1291,19,60,Medium,High,Yes,7,72,Yes,3,Low,High,Public,3,No,High School,Female,65
+SN1292,17,92,Low,Low,Yes,6,57,Yes,2,Medium,Medium,Private,2,Yes,High School,Female,65
+SN1293,16,67,High,Medium,No,8,98,Yes,0,Low,Low,Public,3,No,High School,Female,63
+SN1294,25,84,Medium,Low,Yes,6,84,Yes,2,Medium,High,Public,3,No,High School,Male,70
+SN1295,22,73,Low,Medium,Yes,9,72,Yes,3,Medium,Medium,Public,3,No,High School,Female,66
+SN1296,16,83,Medium,High,Yes,7,56,,4,High,Medium,Public,3,No,High School,Female,68
+SN1297,25,73,Low,Low,No,8,69,Yes,3,Medium,Medium,Private,3,No,High School,Female,66
+SN1298,22,63,Low,Low,No,8,83,Yes,3,Medium,Medium,Private,1,No,College,Male,63
+SN1299,25,69,High,Medium,Yes,9,98,Yes,1,Low,Medium,Public,3,Yes,College,Female,66
+SN1300,24,68,Medium,Medium,Yes,6,74,Yes,1,Medium,Medium,Public,3,No,High School,Female,65
+SN1301,15,77,Medium,Medium,Yes,8,85,Yes,1,Low,Medium,Public,2,No,Postgraduate,Male,66
+SN1302,17,86,High,Low,Yes,4,60,Yes,2,High,Low,Private,3,Yes,College,Female,67
+SN1303,24,71,Medium,Medium,Yes,7,81,Yes,0,Low,Medium,Private,3,No,High School,Male,66
+SN1304,24,60,Low,Medium,No,6,62,Yes,4,Low,High,Public,3,No,High School,Female,63
+SN1305,20,81,Medium,Medium,Yes,5,60,Yes,3,Medium,Medium,Public,4,Yes,High School,Male,66
+SN1306,21,84,Medium,Medium,No,6,75,No,1,High,Medium,Public,3,No,College,Male,67
+SN1307,28,99,Medium,Medium,Yes,6,61,No,1,Low,Medium,Public,3,No,High School,Male,71
+SN1308,16,84,Medium,High,Yes,7,86,Yes,1,Low,Medium,Private,2,No,High School,Female,67
+SN1309,23,79,Medium,High,Yes,6,97,Yes,1,High,Low,Public,4,No,High School,Male,69
+SN1310,19,83,Medium,Medium,Yes,7,70,Yes,2,Low,Medium,Public,4,Yes,Postgraduate,Female,67
+SN1311,19,97,High,Medium,Yes,6,66,Yes,2,Medium,Medium,Private,2,No,College,Female,72
+SN1312,27,93,High,Low,No,6,59,Yes,2,Low,Medium,Private,4,No,High School,Female,70
+SN1313,25,73,Medium,High,Yes,7,70,Yes,0,Low,Medium,Private,4,No,Postgraduate,Male,67
+SN1314,25,69,Low,High,Yes,7,78,Yes,0,Low,High,Public,3,No,High School,Female,64
+SN1315,28,71,Medium,Medium,No,8,69,Yes,1,Medium,High,Private,1,No,College,Female,67
+SN1316,20,80,Low,High,No,8,81,Yes,3,Medium,Medium,Private,4,No,Postgraduate,Male,69
+SN1317,24,90,Low,Low,No,7,83,Yes,0,Low,Medium,Private,3,No,College,Male,68
+SN1318,18,80,Medium,Medium,No,8,55,Yes,2,Low,Low,Public,3,No,High School,Male,63
+SN1319,22,63,Medium,High,Yes,7,85,Yes,4,High,High,Public,3,No,College,Female,68
+SN1320,19,89,High,Medium,Yes,7,95,Yes,0,Medium,Medium,Public,3,No,High School,Male,70
+SN1321,21,92,Medium,Low,Yes,8,51,Yes,0,Medium,Medium,Public,2,No,College,Male,66
+SN1322,24,72,High,High,No,6,78,Yes,0,Low,High,Public,6,No,High School,Female,68
+SN1323,15,87,High,Low,Yes,4,80,Yes,0,Low,Medium,Private,3,No,College,Male,67
+SN1324,33,77,Low,High,Yes,5,85,Yes,0,Low,Medium,Private,5,No,High School,Female,69
+SN1325,14,96,Medium,Low,Yes,9,69,Yes,0,Medium,Medium,Private,3,Yes,College,Female,66
+SN1326,13,94,Medium,Medium,Yes,7,91,Yes,3,Low,Medium,Public,3,No,High School,Male,68
+SN1327,27,81,Medium,Medium,Yes,7,77,Yes,2,Medium,Low,Public,2,Yes,Postgraduate,Female,69
+SN1328,25,88,Medium,Medium,Yes,7,70,Yes,1,Medium,Medium,Private,3,No,Postgraduate,Male,70
+SN1329,24,95,Medium,High,Yes,8,86,Yes,1,Medium,High,Private,3,No,College,Male,74
+SN1330,24,80,Medium,High,Yes,7,96,Yes,0,Low,High,Public,0,No,College,Female,70
+SN1331,20,73,Medium,Medium,Yes,7,91,Yes,1,Medium,High,Public,2,No,Postgraduate,Male,66
+SN1332,15,90,High,Medium,Yes,8,97,Yes,1,Low,High,Private,3,No,College,Female,69
+SN1333,20,69,Medium,High,No,6,63,Yes,0,Low,Medium,Public,3,No,Postgraduate,Male,64
+SN1334,16,76,Low,High,Yes,8,56,No,1,Low,Medium,Public,1,No,High School,Male,62
+SN1335,26,95,Low,High,No,7,77,Yes,0,Medium,Medium,Public,3,No,High School,Female,70
+SN1336,19,89,High,Medium,Yes,7,52,Yes,2,Medium,Medium,Public,4,No,High School,Male,68
+SN1337,15,76,Medium,Medium,Yes,6,84,Yes,0,Medium,High,Public,3,No,College,Female,65
+SN1338,18,69,High,High,No,7,62,Yes,3,Medium,Medium,Public,3,No,High School,Male,65
+SN1339,22,74,High,High,Yes,6,73,Yes,3,High,High,Public,4,No,Postgraduate,Female,71
+SN1340,17,71,High,Medium,Yes,9,83,Yes,2,Medium,Medium,Public,5,No,High School,Male,66
+SN1341,15,67,Medium,Medium,No,4,74,Yes,0,Low,Medium,Public,3,No,College,Male,61
+SN1342,21,90,Low,Medium,Yes,8,62,Yes,2,Medium,High,Public,5,Yes,High School,Male,67
+SN1343,21,70,Low,High,Yes,4,94,Yes,0,Low,High,Private,2,No,College,Male,65
+SN1344,17,78,Medium,High,No,8,88,Yes,0,Low,Medium,Public,3,No,High School,Female,65
+SN1345,17,75,Medium,High,Yes,6,80,No,1,Low,Medium,Private,5,No,High School,Male,65
+SN1346,21,99,Medium,Medium,No,8,85,Yes,4,Medium,Medium,Public,4,No,High School,Male,73
+SN1347,11,76,Medium,Medium,Yes,7,71,No,1,Medium,Low,Public,2,No,College,Male,62
+SN1348,12,63,Medium,High,Yes,5,69,Yes,0,Medium,High,Public,2,No,College,Female,60
+SN1349,16,64,Low,Medium,Yes,9,58,Yes,1,Medium,Medium,Public,3,No,College,Female,61
+SN1350,19,84,Low,Medium,Yes,8,90,Yes,2,Low,Medium,Private,3,No,Postgraduate,Male,67
+SN1351,22,84,High,Medium,No,8,69,No,3,Medium,High,Private,4,No,College,Male,70
+SN1352,29,77,Low,High,No,6,85,Yes,1,Medium,Medium,Public,1,No,College,Male,69
+SN1353,25,77,Medium,Low,Yes,8,65,No,0,Medium,Medium,Public,5,No,College,Female,66
+SN1354,19,62,Medium,Medium,No,5,90,Yes,2,Low,High,Public,3,No,College,Male,64
+SN1355,20,81,High,Medium,Yes,4,55,Yes,1,High,Medium,Private,2,No,Postgraduate,Male,68
+SN1356,14,80,High,Medium,Yes,5,81,Yes,1,Low,Medium,Public,4,No,Postgraduate,Female,67
+SN1357,20,66,Medium,Medium,No,6,90,Yes,0,Medium,Medium,Public,1,No,College,Female,64
+SN1358,18,64,Medium,Medium,Yes,6,83,Yes,2,Low,Medium,Public,2,No,College,Male,65
+SN1359,22,65,Low,High,Yes,6,85,Yes,2,High,Medium,Public,3,Yes,Postgraduate,Female,66
+SN1360,15,64,Medium,Medium,Yes,6,76,Yes,2,Medium,Medium,Private,4,Yes,High School,Female,63
+SN1361,23,84,High,Medium,Yes,6,78,Yes,2,Low,Low,Public,2,No,High School,Female,68
+SN1362,29,68,Medium,High,Yes,4,53,Yes,1,Medium,Medium,Private,4,No,High School,Male,66
+SN1363,19,70,Medium,Medium,No,7,63,No,3,Low,Low,Public,5,No,High School,Male,63
+SN1364,22,67,Low,Medium,No,7,86,Yes,1,Low,Medium,Public,3,No,High School,Female,63
+SN1365,24,98,High,Medium,Yes,6,97,Yes,1,Medium,Medium,Public,4,No,College,Male,74
+SN1366,18,94,Medium,High,Yes,9,77,Yes,1,Medium,High,Public,2,No,College,Male,70
+SN1367,21,69,High,High,Yes,7,86,Yes,2,Low,Medium,Private,3,No,High School,Male,68
+SN1368,20,73,Medium,Medium,Yes,7,84,Yes,0,Medium,Medium,Public,4,No,Postgraduate,Female,66
+SN1369,21,68,Medium,Low,No,8,100,Yes,0,Medium,Medium,Public,4,No,High School,Male,63
+SN1370,15,80,Low,High,No,5,90,Yes,4,Low,Medium,Public,3,No,College,Female,67
+SN1371,20,61,Medium,Medium,No,7,81,Yes,1,Medium,Low,Public,3,No,High School,Male,62
+SN1372,23,87,High,High,No,8,56,Yes,1,Medium,High,Public,3,No,Postgraduate,Male,71
+SN1373,29,81,High,Medium,No,7,68,Yes,2,Medium,Medium,Public,4,No,Postgraduate,Male,72
+SN1374,26,96,Medium,Medium,Yes,5,63,No,1,High,Medium,Private,2,No,Postgraduate,Male,72
+SN1375,33,67,Medium,Medium,Yes,6,93,Yes,0,Low,High,Public,3,No,High School,Female,68
+SN1376,15,92,Medium,Low,Yes,7,72,Yes,1,Medium,Medium,Public,5,No,High School,Female,66
+SN1377,25,92,Medium,Medium,No,4,77,Yes,0,Low,Medium,Public,3,No,High School,Male,70
+SN1378,21,65,Medium,Low,Yes,5,98,No,2,Low,Medium,Private,4,No,Postgraduate,Male,66
+SN1379,33,76,Medium,Medium,Yes,10,92,Yes,1,High,Medium,Private,3,No,Postgraduate,Female,72
+SN1380,15,67,High,Medium,Yes,8,89,Yes,0,High,High,Public,4,No,High School,Female,64
+SN1381,15,70,High,Medium,No,9,57,Yes,1,Medium,Medium,Private,3,No,High School,Female,63
+SN1382,16,71,Medium,Medium,No,8,51,Yes,0,Low,Medium,Public,2,No,Postgraduate,Female,61
+SN1383,7,82,High,High,Yes,8,56,Yes,0,Low,Medium,Private,2,No,High School,Male,62
+SN1384,17,76,Medium,High,No,7,87,Yes,1,Medium,High,Public,4,No,High School,Female,68
+SN1385,15,98,Low,Medium,Yes,8,71,Yes,1,Medium,Medium,Public,3,No,High School,Male,68
+SN1386,21,65,Low,Medium,No,9,56,Yes,1,Medium,Medium,Public,5,No,High School,Male,63
+SN1387,22,99,Medium,Low,Yes,8,87,Yes,1,Medium,Medium,Private,4,No,High School,Female,70
+SN1388,31,69,High,Low,Yes,7,60,Yes,1,Low,Medium,Public,3,No,Postgraduate,Female,68
+SN1389,26,91,High,Medium,Yes,7,79,Yes,1,Low,Medium,Private,5,No,High School,Female,72
+SN1390,17,74,Medium,Medium,Yes,8,87,Yes,4,Low,Low,Public,3,No,College,Male,67
+SN1391,15,66,Low,High,No,6,80,No,1,Low,Medium,Private,1,No,College,Male,61
+SN1392,23,94,Low,Medium,No,8,100,No,0,Low,Medium,Public,3,No,Postgraduate,Male,69
+SN1393,12,72,Medium,Low,Yes,6,72,Yes,2,Low,High,Private,2,No,High School,Female,61
+SN1394,31,86,High,High,Yes,6,66,Yes,3,Medium,Medium,Public,3,No,College,Male,75
+SN1395,27,83,High,Low,No,5,60,Yes,0,High,Low,Public,2,No,College,Female,68
+SN1396,17,79,Medium,Low,Yes,6,75,Yes,1,Medium,High,Public,4,No,High School,Male,65
+SN1397,10,80,High,Medium,Yes,6,93,Yes,4,Medium,,Public,3,No,College,Female,67
+SN1398,28,89,Medium,High,Yes,10,97,Yes,3,Medium,Low,Public,6,No,High School,Female,75
+SN1399,19,64,Low,Medium,No,6,99,Yes,1,Medium,Medium,Public,3,No,College,Male,64
+SN1400,27,87,Medium,Medium,No,8,77,Yes,1,Low,High,Public,4,No,High School,Male,70
+SN1401,10,96,High,High,No,6,80,No,0,Medium,Medium,Public,4,No,High School,Female,67
+SN1402,16,62,Medium,Medium,Yes,7,79,Yes,2,Medium,Medium,Public,3,No,High School,Male,63
+SN1403,20,66,High,High,No,7,73,Yes,1,Medium,Medium,Public,4,No,College,Female,65
+SN1404,20,89,Medium,Medium,Yes,4,58,Yes,1,Medium,Medium,Public,3,No,High School,Female,67
+SN1405,17,77,Low,High,Yes,5,53,Yes,2,High,Medium,Public,3,No,College,Male,86
+SN1406,24,76,Low,High,No,6,72,Yes,3,Medium,High,Public,3,Yes,High School,Female,67
+SN1407,14,65,High,Medium,No,5,59,Yes,1,High,Medium,Public,4,No,Postgraduate,Male,63
+SN1408,19,80,Medium,Medium,No,7,94,Yes,0,Medium,Low,Public,3,No,College,Female,66
+SN1409,21,65,High,High,No,7,88,Yes,2,Low,Medium,Private,1,No,,Male,65
+SN1410,23,79,Medium,Medium,No,5,81,Yes,1,Medium,Medium,Private,3,No,High School,Female,67
+SN1411,24,91,Medium,Medium,No,7,52,Yes,0,High,High,Public,4,No,College,Male,69
+SN1412,13,70,High,High,No,6,81,Yes,2,Medium,Low,Public,2,No,Postgraduate,Male,66
+SN1413,11,79,Medium,Medium,Yes,7,81,Yes,1,High,Medium,Public,2,No,High School,Male,64
+SN1414,28,100,High,Low,Yes,6,72,Yes,1,Low,Medium,Public,2,No,Postgraduate,Female,73
+SN1415,22,87,Low,Medium,No,8,83,Yes,1,Low,Medium,Public,1,No,College,Male,66
+SN1416,16,94,Medium,Medium,No,9,93,Yes,1,Low,Medium,Public,4,No,Postgraduate,Female,68
+SN1417,29,77,High,Low,Yes,8,88,Yes,0,Medium,High,Public,4,No,College,Male,70
+SN1418,21,91,High,Medium,No,9,74,Yes,2,Low,Low,Private,2,No,,Female,69
+SN1419,27,62,Medium,High,Yes,5,63,Yes,4,High,Medium,Public,4,No,High School,Female,67
+SN1420,20,65,Medium,Low,No,6,74,Yes,0,Medium,Medium,Private,3,No,College,Male,62
+SN1421,32,68,Medium,Low,No,8,97,Yes,1,Low,Medium,Public,2,No,High School,Male,68
+SN1422,31,76,Medium,High,Yes,9,91,Yes,1,Low,Medium,Private,4,No,Postgraduate,Male,72
+SN1423,19,94,Low,Medium,No,8,51,Yes,3,Medium,Low,Private,5,No,Postgraduate,Male,69
+SN1424,26,74,Low,Low,No,5,89,Yes,3,High,High,Private,2,No,High School,Male,66
+SN1425,24,86,High,High,No,6,59,Yes,1,Low,Medium,Public,3,No,High School,Female,70
+SN1426,28,88,High,Medium,No,8,79,Yes,0,Medium,Medium,Public,3,No,High School,Male,71
+SN1427,14,83,Medium,Medium,Yes,7,90,Yes,0,Low,Low,Public,3,No,College,Female,65
+SN1428,24,74,High,Medium,Yes,6,78,Yes,3,Low,High,Public,3,No,College,Female,70
+SN1429,26,83,Low,Low,No,7,70,No,2,Medium,High,Public,4,Yes,High School,Male,65
+SN1430,9,74,Medium,High,No,7,66,Yes,1,High,High,Private,3,No,High School,Female,62
+SN1431,13,63,High,Medium,Yes,5,65,Yes,2,High,Medium,Private,2,No,High School,Male,62
+SN1432,8,100,High,Medium,Yes,8,92,Yes,1,Medium,High,Public,3,No,Postgraduate,Female,70
+SN1433,18,65,Medium,High,Yes,6,91,No,5,Low,Medium,Private,3,No,College,Male,66
+SN1434,24,63,High,Low,Yes,7,91,Yes,4,Low,Medium,Private,4,No,High School,Female,67
+SN1435,29,95,Medium,Low,No,9,64,Yes,1,Medium,High,Public,3,No,High School,Female,72
+SN1436,20,72,High,Low,Yes,7,90,Yes,0,Low,High,Private,3,No,Postgraduate,Female,66
+SN1437,30,86,Medium,Low,Yes,8,52,Yes,2,Medium,Medium,Public,2,Yes,College,Female,68
+SN1438,12,73,High,Medium,No,5,60,Yes,1,Low,Medium,Public,4,No,High School,Male,62
+SN1439,10,76,Low,Medium,Yes,8,76,Yes,2,High,High,Private,3,Yes,Postgraduate,Male,64
+SN1440,20,70,Medium,Medium,No,8,70,Yes,0,Low,Medium,Public,5,No,Postgraduate,Female,65
+SN1441,22,74,Medium,Low,Yes,6,56,Yes,4,Medium,High,Public,3,No,Postgraduate,Male,66
+SN1442,20,76,Medium,Low,No,7,52,Yes,2,Low,High,Private,3,No,High School,Female,64
+SN1443,8,89,Medium,High,Yes,7,81,Yes,4,Low,Medium,Public,3,No,College,Male,67
+SN1444,19,80,High,Medium,Yes,7,66,Yes,4,Medium,Medium,Public,4,No,College,Female,69
+SN1445,12,98,High,Medium,Yes,8,51,Yes,0,Medium,Low,Public,5,No,Postgraduate,Male,68
+SN1446,24,62,Medium,Medium,No,6,72,Yes,2,Low,Low,Public,4,No,High School,Male,64
+SN1447,22,80,High,Medium,Yes,7,65,Yes,2,High,Medium,Private,2,No,High School,Female,68
+SN1448,14,83,Low,Low,Yes,9,79,Yes,1,Medium,Low,Public,3,No,High School,Male,64
+SN1449,17,97,Medium,High,No,9,96,Yes,0,High,Medium,Public,1,No,Postgraduate,Male,71
+SN1450,14,62,High,High,Yes,8,65,Yes,3,Low,Medium,Public,2,No,High School,Male,61
+SN1451,20,83,Low,Medium,No,7,100,Yes,4,Low,Medium,Public,3,No,College,Male,68
+SN1452,26,94,High,Medium,Yes,10,54,Yes,2,High,Medium,Public,5,No,,Male,73
+SN1453,14,70,High,Medium,Yes,9,54,No,3,Medium,Medium,Public,1,No,College,Male,64
+SN1454,23,95,Medium,Medium,Yes,7,86,Yes,3,Low,Medium,Public,4,Yes,Postgraduate,Male,72
+SN1455,17,61,Medium,Medium,Yes,7,87,Yes,5,Medium,Medium,Public,3,No,High School,Male,65
+SN1456,15,89,Medium,Medium,Yes,6,71,Yes,1,Medium,High,Public,4,No,High School,Female,68
+SN1457,19,97,High,Low,Yes,8,64,Yes,2,Low,High,Public,3,No,High School,Male,71
+SN1458,14,86,Medium,Low,Yes,8,90,No,3,Medium,,Public,3,Yes,Postgraduate,Male,65
+SN1459,17,78,Medium,Medium,No,8,98,Yes,2,Medium,Medium,Private,2,No,High School,Male,66
+SN1460,13,62,Low,High,No,7,99,Yes,4,Medium,Low,Public,1,No,Postgraduate,Female,63
+SN1461,32,97,Medium,High,No,5,82,Yes,1,Medium,Medium,Public,3,No,High School,Male,74
+SN1462,20,79,High,Low,Yes,7,87,No,2,Medium,High,Private,4,Yes,High School,Female,66
+SN1463,16,61,Medium,Low,No,8,91,Yes,2,Medium,High,Public,3,No,College,Male,63
+SN1464,21,88,High,Medium,Yes,6,90,Yes,2,High,Medium,Private,4,No,High School,Male,72
+SN1465,19,79,Medium,High,No,7,100,Yes,1,High,High,Public,2,No,College,Female,69
+SN1466,19,65,Medium,High,Yes,9,91,Yes,1,Medium,High,Public,4,No,College,Male,67
+SN1467,24,69,Low,High,No,5,83,Yes,3,Low,Medium,Private,3,No,High School,Male,66
+SN1468,25,63,High,Medium,No,7,69,Yes,0,Low,High,Private,5,No,High School,Female,64
+SN1469,17,83,Low,Medium,No,9,80,Yes,4,Medium,High,Public,2,No,College,Female,67
+SN1470,17,85,Medium,Low,No,7,94,Yes,4,Low,Medium,Public,3,No,College,Female,69
+SN1471,18,80,Medium,Low,Yes,6,65,Yes,2,Low,High,Public,2,No,College,Female,65
+SN1472,6,93,Medium,Medium,No,7,52,Yes,0,Medium,Medium,Public,2,No,College,Female,64
+SN1473,11,94,Medium,Low,Yes,8,66,No,1,High,Low,Public,4,No,High School,Female,65
+SN1474,28,85,Medium,High,Yes,7,98,Yes,2,Low,High,Private,1,Yes,High School,Male,72
+SN1475,30,61,Low,High,Yes,8,90,Yes,2,Low,High,Public,2,No,High School,Female,66
+SN1476,19,88,Medium,Low,No,7,59,Yes,2,Low,Medium,Public,3,No,College,Female,66
+SN1477,23,77,High,High,Yes,7,51,Yes,1,Low,Low,Private,3,No,College,Male,67
+SN1478,22,83,Medium,Medium,Yes,8,83,Yes,1,High,Medium,Private,3,Yes,Postgraduate,Male,69
+SN1479,38,86,Low,High,Yes,7,79,Yes,3,Low,Medium,Public,3,No,High School,Male,73
+SN1480,27,74,Medium,High,No,6,54,Yes,3,Medium,Medium,Public,3,No,College,Female,69
+SN1481,19,97,Medium,Low,No,8,98,Yes,1,Low,Medium,Private,4,Yes,High School,Male,68
+SN1482,14,65,Low,Medium,Yes,7,81,Yes,1,Low,Medium,Public,3,No,High School,Female,61
+SN1483,10,87,Medium,Low,Yes,6,83,No,0,Low,Medium,Public,4,No,High School,Male,63
+SN1484,21,60,Medium,High,Yes,8,93,Yes,0,Low,Medium,Public,2,No,High School,Female,63
+SN1485,15,97,Low,Medium,Yes,9,67,Yes,1,Low,High,Public,2,No,College,Male,68
+SN1486,11,65,Medium,High,No,7,78,Yes,2,Low,Medium,Public,3,No,Postgraduate,Female,63
+SN1487,16,64,High,Medium,Yes,7,79,Yes,3,Medium,Medium,Private,4,Yes,Postgraduate,Female,66
+SN1488,14,73,High,Medium,Yes,5,98,Yes,2,Low,Medium,Public,4,No,High School,Female,65
+SN1489,30,75,High,High,No,7,57,Yes,0,Low,Medium,Public,1,Yes,College,Female,68
+SN1490,25,69,Medium,Medium,Yes,7,88,Yes,0,Low,Medium,Public,4,No,College,Female,66
+SN1491,20,83,Low,Low,No,7,79,No,2,Medium,Medium,Public,5,No,Postgraduate,Male,66
+SN1492,29,78,High,Medium,No,6,92,Yes,2,Low,Medium,Private,4,No,High School,Male,70
+SN1493,20,61,Low,Low,Yes,8,92,Yes,0,Medium,Medium,Public,2,No,High School,Female,61
+SN1494,15,73,Medium,Low,Yes,7,51,Yes,2,Low,High,Private,3,No,High School,Male,61
+SN1495,29,92,Medium,Medium,Yes,10,63,Yes,1,Low,High,Private,4,No,High School,Male,71
+SN1496,23,88,Low,Medium,Yes,7,59,Yes,1,Medium,Medium,Public,2,No,High School,Male,67
+SN1497,14,89,High,High,Yes,4,73,Yes,2,Medium,High,Public,3,No,College,Male,70
+SN1498,19,88,High,Medium,No,5,95,Yes,2,Low,Medium,Private,4,No,College,Male,69
+SN1499,15,72,High,High,No,8,50,Yes,2,Medium,Medium,Public,4,No,High School,Female,65
+SN1500,12,64,High,Low,Yes,6,74,Yes,0,Medium,Medium,Public,2,No,High School,Male,61
+SN1295,26,71,Medium,Low,No,6,94,Yes,3,Low,Medium,Public,4,No,Postgraduate,Male,68
+SN1398,31,93,High,Low,Yes,5,96,Yes,2,Low,Medium,Public,2,No,High School,Male,74
+SN1503,12,99,Medium,Medium,No,6,83,Yes,1,Medium,Medium,Public,3,No,High School,Female,67
+SN1504,23,80,Medium,Medium,Yes,7,91,Yes,5,High,Medium,Public,1,No,High School,Female,70
+SN1505,16,60,Low,Medium,Yes,8,66,Yes,1,High,High,Private,2,Yes,High School,Female,59
+SN1398,17,66,High,High,No,5,64,Yes,0,Medium,High,Private,2,No,College,Male,64
+SN1498,16,73,High,Medium,Yes,8,52,Yes,2,Medium,High,Public,4,No,College,Female,66
+SN1002,15,83,Low,Low,Yes,5,75,Yes,1,Medium,Medium,Public,3,No,High School,Female,63
+SN1500,20,63,Low,Low,Yes,8,73,Yes,0,High,Medium,Public,3,No,College,Female,61
+SN1501,24,78,High,Medium,Yes,5,95,Yes,1,Low,Medium,Private,2,No,College,Male,69
+SN1502,28,72,Low,Medium,Yes,7,60,Yes,4,High,Medium,Public,3,No,Postgraduate,Male,69
+SN1503,18,83,Medium,High,No,4,65,Yes,3,Low,Medium,Public,4,No,College,Male,68
+SN1504,28,66,Medium,Low,Yes,4,98,Yes,0,Medium,High,Public,3,No,High School,Female,67
+SN1505,19,91,Medium,Low,No,6,58,Yes,2,Low,High,Public,3,No,College,Male,68
+SN1506,29,73,Low,Low,Yes,7,63,Yes,1,Low,Medium,Public,4,No,Postgraduate,Female,65
+SN1507,20,84,High,Medium,Yes,6,79,Yes,3,Medium,Medium,Public,3,No,College,Male,69
+SN1508,24,89,Medium,Low,No,4,99,Yes,1,High,High,Private,3,No,Postgraduate,Male,73
+SN1509,29,96,High,Medium,No,8,85,Yes,3,High,Medium,Public,3,No,Postgraduate,Male,76
+SN1510,19,93,Medium,High,Yes,6,56,Yes,0,Low,High,Private,3,No,College,Male,69
+SN1511,21,84,High,Low,Yes,8,87,Yes,2,High,Medium,Public,1,No,Postgraduate,Female,69
+SN1512,28,76,Medium,Medium,Yes,6,71,Yes,3,Low,Medium,Private,2,No,High School,Female,68
+SN1513,19,80,High,High,Yes,6,100,Yes,1,Medium,Medium,Public,3,No,High School,Male,70
+SN1514,12,91,Medium,Low,Yes,8,81,Yes,0,Low,Low,Public,4,No,High School,Male,64
+SN1515,33,95,Low,Low,Yes,6,77,Yes,2,High,High,Private,3,No,High School,Female,73
+SN1516,17,64,Medium,Medium,Yes,7,78,Yes,1,Medium,Medium,Public,3,No,High School,Male,64
+SN1517,21,75,Medium,Low,Yes,7,82,Yes,1,Medium,Medium,Public,4,No,High School,Male,65
+SN1518,27,91,Low,High,No,5,87,No,0,Medium,Medium,Public,3,No,High School,Female,69
+SN1519,16,77,Medium,Low,Yes,8,54,No,0,Medium,Medium,Public,3,No,Postgraduate,Male,62
+SN1520,14,73,High,Medium,Yes,6,57,Yes,2,Medium,Medium,Public,4,No,High School,Female,64
+SN1521,22,76,Low,High,No,5,65,Yes,0,Medium,High,Public,3,No,High School,Female,64
+SN1522,9,84,Medium,Medium,No,6,74,Yes,5,High,,Public,2,No,High School,Male,67
+SN1523,18,100,Medium,Low,Yes,8,66,No,3,Low,Medium,Public,3,No,College,Male,69
+SN1524,21,80,Medium,Low,Yes,5,61,Yes,2,High,Medium,Public,3,No,High School,Male,67
+SN1525,18,68,Low,High,No,8,96,Yes,1,High,Medium,Public,3,No,High School,Male,65
+SN1526,11,67,Medium,High,No,8,52,Yes,3,High,High,Public,3,No,College,Female,63
+SN1527,30,62,Low,Low,Yes,7,97,Yes,0,High,Medium,Private,5,No,College,Female,66
+SN1528,21,82,Medium,High,No,7,95,Yes,1,High,Medium,Public,3,No,High School,Male,70
+SN1529,29,82,Medium,High,No,7,84,Yes,1,Low,Medium,Private,2,No,High School,Male,70
+SN1530,18,68,High,High,Yes,8,52,Yes,0,High,High,Public,3,No,College,Male,67
+SN1531,15,88,Low,Medium,Yes,6,61,Yes,0,High,Medium,Public,4,Yes,Postgraduate,Male,65
+SN1532,22,90,Low,High,No,5,99,Yes,1,Low,Low,Private,2,No,College,Female,70
+SN1533,19,70,Medium,Medium,Yes,7,95,No,0,Medium,High,Private,3,No,College,Female,66
+SN1534,13,74,Medium,High,Yes,8,98,Yes,1,High,High,Public,2,No,High School,Male,66
+SN1535,29,100,Medium,Low,Yes,8,100,Yes,0,Low,Medium,Private,5,Yes,High School,Male,72
+SN1536,16,75,High,Low,Yes,10,53,Yes,0,Low,Low,Public,4,No,College,Female,64
+SN1537,9,90,High,High,Yes,7,79,Yes,4,High,High,Public,4,No,High School,Male,70
+SN1538,28,78,Medium,High,No,7,92,Yes,1,Medium,High,Public,3,No,Postgraduate,Female,71
+SN1539,17,92,Medium,Medium,No,7,66,Yes,2,Low,,Public,3,No,High School,Male,66
+SN1540,16,91,High,Medium,Yes,6,72,Yes,0,High,High,Public,2,No,Postgraduate,Female,70
+SN1541,9,87,Low,Medium,Yes,6,64,Yes,1,High,Medium,Public,2,No,High School,Female,64
+SN1542,30,94,Medium,Low,No,5,52,No,3,High,Medium,Private,2,No,Postgraduate,Female,70
+SN1543,12,98,Medium,Low,Yes,4,54,Yes,2,Medium,High,Private,3,No,High School,Female,67
+SN1544,20,83,Medium,Low,No,6,51,Yes,2,Medium,Medium,Public,4,No,High School,Female,65
+SN1545,25,69,High,Medium,No,7,76,Yes,1,High,Medium,Public,2,No,High School,Female,68
+SN1546,23,76,High,Medium,No,8,81,Yes,3,Low,High,Public,2,No,High School,Female,69
+SN1547,20,90,Medium,Low,Yes,6,65,Yes,3,Low,Medium,Public,2,No,Postgraduate,Female,68
+SN1548,10,86,High,High,Yes,6,91,Yes,2,Low,Medium,Private,3,No,High School,Female,68
+SN1549,15,67,Medium,Low,Yes,9,94,Yes,0,Medium,Medium,Public,4,No,Postgraduate,Male,64
+SN1550,23,95,Low,Medium,Yes,7,80,Yes,2,Low,Medium,Public,4,No,High School,Female,70
+SN1551,14,76,Low,Medium,No,7,64,Yes,3,Medium,Medium,Private,3,No,College,Male,64
+SN1552,12,67,High,Medium,No,7,58,Yes,0,High,Medium,Public,2,Yes,High School,Male,59
+SN1553,21,90,High,Medium,Yes,8,75,Yes,4,Low,High,Public,2,No,High School,Male,71
+SN1554,18,93,Low,Medium,Yes,6,55,Yes,3,Low,Medium,Public,5,No,High School,Male,67
+SN1555,24,95,Medium,Low,Yes,6,96,Yes,3,Low,Medium,Private,3,No,Postgraduate,Female,73
+SN1556,20,84,Low,Low,No,8,72,Yes,3,High,Medium,Public,3,No,High School,Male,66
+SN1557,21,94,High,High,No,5,94,Yes,2,Low,High,Private,2,No,College,Male,73
+SN1558,10,61,High,Medium,Yes,7,85,Yes,1,Medium,Medium,Public,4,No,High School,Female,62
+SN1559,31,64,Medium,High,No,6,93,Yes,1,Low,High,Public,3,No,High School,Female,69
+SN1560,19,64,Medium,High,No,8,94,Yes,3,Medium,High,Private,3,Yes,Postgraduate,Female,66
+SN1561,24,89,Medium,Low,Yes,9,53,Yes,1,Low,High,Private,3,No,High School,Male,68
+SN1562,15,63,Medium,Medium,Yes,6,86,Yes,4,High,Medium,Public,5,No,High School,Male,65
+SN1563,22,80,Medium,Medium,Yes,8,61,Yes,1,Low,Medium,Public,2,No,College,Male,67
+SN1564,12,79,Medium,Medium,Yes,7,99,Yes,2,Medium,Medium,Public,2,Yes,High School,Female,64
+SN1565,23,72,High,High,Yes,6,89,No,0,Medium,High,Private,3,No,High School,Male,67
+SN1566,18,95,Low,Low,Yes,7,50,Yes,3,Medium,Medium,Private,3,No,High School,Female,66
+SN1567,20,67,High,Medium,No,9,96,Yes,1,High,High,Public,3,No,High School,Female,68
+SN1568,24,74,Medium,Medium,Yes,7,65,Yes,3,Medium,High,Public,2,No,College,Male,68
+SN1569,13,91,Medium,Low,Yes,9,71,Yes,1,Low,Medium,Public,2,No,College,Male,64
+SN1570,16,61,High,Medium,Yes,7,81,Yes,2,Medium,Medium,Public,1,No,High School,Female,63
+SN1571,23,87,High,Medium,No,5,96,Yes,2,Medium,Medium,Public,3,No,College,Female,72
+SN1572,33,93,High,Medium,No,7,96,Yes,1,Low,High,Public,1,No,Postgraduate,Female,75
+SN1573,19,97,High,Medium,No,5,78,Yes,2,Low,Medium,Public,3,No,High School,Male,71
+SN1574,24,95,High,Medium,No,7,66,Yes,2,High,High,Public,3,No,High School,Male,71
+SN1575,19,73,Medium,Medium,Yes,6,64,Yes,4,Medium,Medium,Public,5,Yes,College,Female,66
+SN1576,32,83,High,Medium,Yes,10,68,No,3,Low,Medium,Private,4,No,High School,Female,71
+SN1577,10,63,High,Medium,No,9,59,Yes,0,Medium,High,Public,5,No,Postgraduate,Male,61
+SN1578,21,70,Medium,Medium,Yes,7,83,Yes,1,Medium,Medium,Public,3,No,High School,Male,65
+SN1579,10,64,Medium,Low,No,9,76,Yes,1,Low,Medium,Private,1,No,High School,Female,58
+SN1580,5,73,High,Low,Yes,6,89,Yes,1,Medium,Medium,Public,2,No,High School,Male,62
+SN1581,22,95,High,Low,No,5,55,Yes,2,High,High,Public,0,Yes,College,Female,69
+SN1582,21,74,Medium,Low,Yes,8,70,Yes,1,Medium,Medium,Public,3,No,Postgraduate,Male,65
+SN1583,18,82,High,Medium,Yes,8,62,Yes,3,Low,Medium,Private,4,No,High School,Female,69
+SN1584,19,77,High,Medium,Yes,6,77,Yes,1,Low,High,Private,3,No,College,Female,68
+SN1585,39,78,Medium,Medium,No,6,73,Yes,0,Low,Medium,Public,2,No,College,Male,70
+SN1586,18,99,High,Medium,Yes,8,72,Yes,4,Low,Medium,Public,4,No,High School,Female,72
+SN1587,23,72,Low,Medium,Yes,4,66,No,3,Low,Medium,Private,4,No,Postgraduate,Female,66
+SN1588,16,85,Low,High,Yes,8,86,Yes,2,High,Medium,Private,4,No,High School,Female,68
+SN1589,22,77,Medium,Medium,Yes,7,74,Yes,2,Low,Low,Private,4,No,College,Male,67
+SN1590,19,62,High,Low,Yes,8,60,Yes,1,Low,Medium,Public,2,No,College,Female,61
+SN1591,18,80,Low,Low,Yes,8,77,Yes,1,Low,High,Public,2,No,College,Female,64
+SN1592,31,93,High,Medium,No,6,80,Yes,3,Medium,Medium,Public,2,No,High School,Male,74
+SN1593,27,64,Medium,Medium,No,5,51,Yes,1,Low,High,Public,3,No,High School,Female,64
+SN1594,21,63,High,Low,Yes,9,60,Yes,2,Medium,Medium,Public,2,No,Postgraduate,Male,64
+SN1595,6,66,High,Medium,Yes,7,62,Yes,2,Low,Medium,Public,4,No,Postgraduate,Male,61
+SN1596,18,91,High,High,Yes,7,62,Yes,3,Low,Medium,Private,3,No,High School,Male,71
+SN1597,36,89,High,Low,Yes,8,62,Yes,2,Low,High,Private,3,No,College,Male,72
+SN1598,19,83,High,High,No,6,64,Yes,0,Medium,Medium,Private,5,No,Postgraduate,Female,68
+SN1599,27,79,Low,High,Yes,8,63,Yes,2,Low,Medium,Public,5,No,College,Female,69
+SN1600,29,96,Medium,High,No,8,94,No,2,Low,High,Public,4,No,High School,Male,74
+SN1601,21,91,Medium,High,Yes,9,66,Yes,3,Low,Medium,Public,4,No,College,Female,70
+SN1602,15,92,High,Low,Yes,9,67,Yes,1,High,High,Public,2,No,Postgraduate,Male,69
+SN1603,5,93,Low,Low,No,7,63,Yes,2,Medium,High,Public,3,No,Postgraduate,Male,64
+SN1604,24,86,Low,Low,Yes,8,98,Yes,2,High,Medium,Public,5,No,Postgraduate,Male,71
+SN1605,15,78,High,Low,Yes,7,77,Yes,0,High,Medium,Public,3,No,College,Male,65
+SN1606,21,95,High,Medium,Yes,7,81,Yes,0,Medium,Medium,Public,3,No,High School,Male,71
+SN1607,13,97,High,High,Yes,5,87,Yes,1,Medium,High,Public,2,No,Postgraduate,Female,71
+SN1608,18,61,Low,Medium,Yes,7,67,Yes,5,High,High,Public,2,No,Postgraduate,Male,66
+SN1609,20,62,Medium,Medium,No,4,98,Yes,1,High,Low,Public,4,No,High School,Male,64
+SN1610,22,98,Medium,Medium,No,7,58,Yes,0,Medium,,Private,3,No,,Male,70
+SN1611,13,71,Low,Low,No,9,73,Yes,1,High,High,Private,3,No,High School,Male,61
+SN1612,27,95,Medium,Medium,Yes,8,57,Yes,1,Medium,Low,Private,3,No,High School,Female,71
+SN1613,16,76,Medium,Medium,No,7,90,Yes,0,Low,Medium,Public,3,No,Postgraduate,Male,65
+SN1614,10,65,Low,High,No,7,55,Yes,0,Low,High,Public,3,No,High School,Female,59
+SN1615,19,63,Medium,Medium,Yes,6,78,Yes,3,Medium,Medium,Public,2,Yes,College,Male,63
+SN1616,20,66,Medium,Medium,Yes,6,55,Yes,1,High,High,Public,3,No,Postgraduate,Female,64
+SN1617,21,70,Low,Low,No,8,73,Yes,0,High,Medium,Public,4,No,College,Male,63
+SN1618,28,80,High,High,No,5,64,Yes,1,Low,Medium,Private,2,No,Postgraduate,Female,70
+SN1619,19,88,High,Medium,Yes,5,95,Yes,1,Medium,High,Public,3,No,High School,Male,70
+SN1620,19,99,High,High,Yes,8,53,Yes,1,Medium,Medium,Private,4,No,College,Male,72
+SN1621,13,78,Medium,High,No,7,82,Yes,0,Low,High,Public,2,No,College,Female,65
+SN1622,25,81,High,Medium,Yes,7,85,Yes,3,Medium,Medium,Public,1,No,Postgraduate,Female,71
+SN1623,21,81,High,Medium,Yes,7,94,Yes,3,Medium,Medium,Public,1,No,Postgraduate,Male,70
+SN1624,17,82,Medium,Low,No,10,94,Yes,1,High,High,Private,3,No,High School,Female,66
+SN1625,9,81,Medium,Medium,Yes,7,99,Yes,2,Low,Medium,Public,3,No,High School,Female,64
+SN1626,29,60,Low,High,No,7,63,Yes,0,Low,Medium,Public,4,No,Postgraduate,Male,64
+SN1627,13,60,High,Low,No,10,64,Yes,1,Medium,Medium,Public,4,No,College,Male,59
+SN1628,16,64,Medium,High,Yes,7,70,Yes,5,Low,Low,Public,4,No,High School,Male,65
+SN1629,22,64,High,Medium,Yes,10,77,Yes,1,Low,High,Public,3,No,High School,Male,66
+SN1630,13,88,Medium,Medium,Yes,4,68,Yes,1,High,Medium,Public,2,No,High School,Female,67
+SN1631,11,68,High,Medium,Yes,5,87,Yes,1,Low,Medium,Public,4,Yes,High School,Male,62
+SN1632,7,96,High,Low,No,6,50,Yes,1,High,Medium,Private,3,No,College,Male,65
+SN1633,24,97,High,Medium,Yes,8,51,Yes,3,Low,,Public,2,No,Postgraduate,Female,73
+SN1634,17,99,Medium,Medium,No,10,86,Yes,1,Medium,Medium,Private,2,No,College,Male,70
+SN1635,38,98,Low,Medium,No,6,94,Yes,2,Low,Low,Public,4,No,Postgraduate,Female,75
+SN1636,14,71,High,High,Yes,8,89,Yes,0,Medium,Medium,Public,3,No,Postgraduate,Female,66
+SN1637,14,80,High,Medium,No,10,56,Yes,1,Low,Medium,Public,3,No,Postgraduate,Female,65
+SN1638,17,67,Medium,Medium,No,9,97,Yes,1,Medium,Low,Public,3,No,Postgraduate,Female,64
+SN1639,21,92,High,Low,No,6,76,Yes,2,Low,Medium,Public,5,No,College,Male,70
+SN1640,17,96,Medium,High,Yes,8,87,Yes,0,Medium,Medium,Private,5,No,High School,Male,71
+SN1641,24,94,Low,Medium,No,8,60,Yes,0,Medium,Medium,Public,3,No,High School,Male,68
+SN1642,14,77,Medium,Medium,Yes,6,77,Yes,1,Low,High,Private,2,No,College,Male,64
+SN1643,12,90,High,High,No,8,67,Yes,2,Low,Low,Public,3,No,High School,Female,67
+SN1644,9,64,Medium,High,Yes,6,99,Yes,6,Low,High,Public,6,Yes,High School,Male,65
+SN1645,7,62,High,Medium,Yes,7,74,Yes,3,Medium,Medium,Public,3,No,Postgraduate,Female,62
+SN1646,17,90,Low,High,Yes,5,88,Yes,1,Medium,Medium,Public,1,No,College,Female,68
+SN1647,18,77,High,Medium,Yes,4,80,Yes,1,Medium,Low,Private,2,No,College,Male,66
+SN1648,16,100,High,High,Yes,7,55,Yes,1,Low,Medium,Public,2,Yes,College,Male,69
+SN1649,27,64,Medium,Medium,Yes,7,77,Yes,3,High,Medium,Public,4,No,High School,Male,68
+SN1650,27,94,Medium,Low,No,5,77,Yes,0,Medium,High,Public,2,No,College,Female,71
+SN1651,18,79,Medium,High,Yes,8,86,Yes,3,Low,Low,Public,4,No,College,Female,68
+SN1652,9,93,High,Low,Yes,7,66,Yes,0,Low,Low,Private,2,No,College,Male,64
+SN1653,17,93,Low,Medium,No,8,93,Yes,0,Low,Medium,Public,3,No,College,Male,66
+SN1654,16,97,Medium,Low,Yes,8,81,Yes,0,High,High,Private,2,No,High School,Male,70
+SN1655,16,72,Low,Medium,No,9,52,Yes,1,Medium,High,Public,1,Yes,College,Female,60
+SN1656,16,98,Medium,Medium,Yes,8,85,Yes,0,Low,High,Public,2,No,College,Male,69
+SN1657,16,66,Medium,Medium,Yes,7,95,Yes,1,Medium,Medium,Public,4,No,College,Male,65
+SN1658,18,63,High,High,Yes,7,84,Yes,1,Medium,High,Public,2,No,High School,Female,66
+SN1659,16,77,Medium,Low,No,10,69,Yes,1,Medium,Medium,Private,3,No,High School,Female,64
+SN1660,21,93,Medium,High,No,8,80,Yes,0,High,High,Public,1,No,College,Female,71
+SN1661,22,79,High,Low,No,7,59,Yes,0,Medium,Medium,Public,3,No,College,Male,66
+SN1662,15,93,Medium,Low,Yes,7,80,Yes,0,Low,Medium,Public,3,No,High School,Female,66
+SN1663,28,89,Medium,Medium,No,6,75,Yes,1,Low,Low,Private,3,No,High School,Male,68
+SN1664,14,68,High,High,No,5,51,Yes,1,High,Medium,Public,5,Yes,High School,Male,63
+SN1665,10,98,Medium,Low,Yes,10,66,Yes,1,Low,High,Public,2,No,College,Female,66
+SN1666,22,62,Low,Medium,No,8,60,No,0,Medium,High,Public,2,No,College,Male,61
+SN1667,15,96,Medium,Low,No,5,70,Yes,4,Low,High,Private,3,No,College,Male,70
+SN1668,22,72,Medium,High,Yes,7,62,Yes,5,High,Medium,Private,2,No,College,Female,68
+SN1669,6,80,Medium,Medium,Yes,9,92,Yes,5,Low,Medium,Public,2,No,Postgraduate,Male,65
+SN1670,28,77,High,Medium,No,6,85,Yes,0,Low,Medium,Public,1,No,Postgraduate,Female,69
+SN1671,24,67,Medium,High,Yes,6,87,Yes,0,Medium,Medium,Public,4,No,College,Male,67
+SN1672,11,74,High,Medium,No,8,68,Yes,0,Medium,Medium,Public,3,No,High School,Male,62
+SN1673,11,68,Low,High,Yes,8,50,Yes,2,Low,High,Private,4,No,High School,Female,61
+SN1674,30,68,High,High,Yes,6,61,Yes,1,Medium,Medium,Public,3,No,Postgraduate,Female,70
+SN1675,16,67,High,Medium,Yes,6,88,Yes,0,High,Low,Public,3,No,College,Male,65
+SN1676,15,80,High,Medium,No,8,80,Yes,1,Low,Medium,Public,4,No,High School,Female,65
+SN1677,6,92,Medium,Medium,Yes,5,77,Yes,1,Low,High,Public,4,No,High School,Male,66
+SN1678,18,83,Medium,High,Yes,6,64,No,1,Medium,High,Private,3,No,High School,Female,66
+SN1679,19,96,Medium,Medium,Yes,7,54,Yes,1,Low,Medium,Public,3,No,College,Male,69
+SN1680,24,85,High,High,No,8,89,Yes,1,Low,Medium,Public,3,No,High School,Female,70
+SN1681,12,88,High,Medium,No,6,52,No,1,Medium,High,Public,1,No,High School,Male,63
+SN1682,11,87,Low,Medium,No,8,53,Yes,1,Medium,Medium,Public,3,No,High School,Female,64
+SN1683,23,78,High,Low,No,9,65,Yes,1,Low,High,Public,2,Yes,College,Female,65
+SN1684,26,88,High,Medium,Yes,6,79,Yes,1,Low,High,Public,4,No,High School,Male,71
+SN1685,11,63,Medium,Medium,Yes,10,100,Yes,0,Medium,Medium,Public,3,No,High School,Female,61
+SN1686,26,94,Low,Low,Yes,9,55,Yes,2,High,Medium,Public,3,No,High School,Male,69
+SN1687,20,91,High,Medium,No,7,74,Yes,1,Medium,Medium,Public,4,No,High School,Male,69
+SN1688,27,70,Medium,Medium,No,7,80,Yes,1,Low,Medium,Public,3,No,High School,Female,66
+SN1689,20,91,High,Medium,No,6,91,Yes,3,High,High,Public,2,No,High School,Male,72
+SN1690,5,61,High,Medium,No,9,84,Yes,1,Medium,Medium,Public,3,No,College,Male,60
+SN1691,19,69,Low,Low,No,7,90,Yes,0,Low,Medium,Public,1,No,College,Male,62
+SN1692,26,63,Medium,Medium,Yes,5,76,Yes,3,Medium,High,Public,5,Yes,High School,Female,66
+SN1693,15,91,Medium,High,Yes,4,72,Yes,1,High,High,Private,2,No,High School,Male,69
+SN1694,18,90,High,Medium,No,7,81,Yes,2,Medium,Low,Public,3,No,Postgraduate,Male,69
+SN1695,19,93,Medium,High,No,7,95,Yes,3,Medium,Medium,Private,3,No,High School,Female,71
+SN1696,3,60,Medium,Low,Yes,6,78,Yes,1,Low,Medium,Public,1,No,Postgraduate,Female,57
+SN1697,30,80,High,High,No,5,80,Yes,0,Low,Medium,Private,4,No,Postgraduate,Female,72
+SN1698,15,88,Low,Medium,Yes,4,67,Yes,1,Medium,High,Private,4,No,High School,Female,66
+SN1699,23,66,Medium,Medium,Yes,6,80,Yes,1,Medium,Medium,Public,3,No,College,Female,66
+SN1700,19,86,Medium,Medium,No,6,81,Yes,3,Medium,High,Public,3,No,College,Male,70
+SN1701,28,63,Medium,Medium,No,8,88,Yes,2,Low,High,Public,2,No,High School,Male,67
+SN1702,22,67,Medium,Medium,Yes,7,79,Yes,1,Medium,Low,Private,3,No,College,Female,65
+SN1703,19,79,Medium,Medium,Yes,9,60,Yes,1,Low,Medium,Public,3,Yes,High School,Female,63
+SN1704,15,86,High,Low,No,8,79,Yes,3,Low,Medium,Public,3,No,College,Female,68
+SN1705,25,66,Low,Medium,Yes,8,65,Yes,0,Medium,Medium,Public,3,Yes,High School,Male,63
+SN1706,9,67,Medium,High,Yes,8,54,Yes,3,Medium,High,Private,5,No,College,Male,63
+SN1707,24,68,Medium,Medium,Yes,5,91,Yes,1,High,Medium,Public,4,No,College,Female,68
+SN1708,13,70,Medium,Medium,Yes,6,53,Yes,2,Low,Medium,Public,0,Yes,College,Female,60
+SN1709,28,69,Medium,Medium,No,10,82,Yes,0,Medium,Medium,Private,2,No,High School,Female,67
+SN1710,21,76,Low,Low,Yes,4,99,Yes,0,Low,Low,Public,3,No,College,Male,65
+SN1711,24,86,High,Low,Yes,7,54,Yes,0,Low,High,Public,2,No,College,Male,68
+SN1712,20,78,Medium,Low,No,8,61,Yes,0,Medium,Medium,Public,2,Yes,High School,Female,62
+SN1713,9,91,Medium,Low,No,4,88,Yes,2,Medium,Medium,Public,4,Yes,Postgraduate,Female,65
+SN1714,15,89,Medium,Medium,Yes,6,55,Yes,1,Low,Medium,Private,3,No,High School,Male,66
+SN1715,24,65,Medium,Medium,Yes,10,92,Yes,3,Medium,High,Public,4,No,High School,Male,67
+SN1716,21,62,Low,High,Yes,7,50,No,1,High,Medium,Public,2,No,High School,Female,60
+SN1717,27,95,Low,High,Yes,6,94,Yes,2,Medium,Medium,Public,4,No,Postgraduate,Female,74
+SN1718,22,63,Low,Low,Yes,7,53,Yes,1,High,Medium,Public,4,No,High School,Male,62
+SN1719,14,66,Low,Medium,Yes,6,96,Yes,0,High,Medium,Public,3,No,College,Male,61
+SN1720,15,61,Medium,Medium,No,10,93,Yes,0,Medium,High,Public,4,No,High School,Male,63
+SN1721,21,85,Medium,Low,No,6,77,Yes,2,Low,Medium,Public,3,No,College,Male,66
+SN1722,6,83,Medium,Medium,No,6,89,Yes,1,Low,Medium,Public,4,No,Postgraduate,Female,65
+SN1723,30,99,Low,Medium,No,5,54,Yes,0,Medium,Medium,Private,3,No,Postgraduate,Male,72
+SN1724,23,95,High,Medium,No,7,57,Yes,1,Low,Medium,Private,2,No,High School,Female,70
+SN1725,27,76,High,High,Yes,7,68,Yes,1,Medium,Medium,Public,3,No,Postgraduate,Female,71
+SN1726,11,75,High,High,Yes,9,77,No,1,High,High,Private,2,Yes,College,Male,64
+SN1727,27,72,Medium,High,No,5,93,Yes,1,High,Medium,Public,2,No,College,Male,70
+SN1728,33,66,Medium,Medium,No,8,77,Yes,2,Medium,Low,Public,3,No,High School,Male,68
+SN1729,12,66,Low,High,Yes,7,83,No,1,Medium,Medium,Public,3,No,High School,Male,61
+SN1730,25,65,High,Medium,Yes,4,84,Yes,1,High,Medium,Public,2,No,High School,Male,68
+SN1731,20,65,Low,Medium,No,6,94,Yes,1,Low,High,Public,2,No,Postgraduate,Female,64
+SN1732,11,70,Medium,High,Yes,6,89,Yes,2,Medium,Medium,Public,4,No,High School,Female,64
+SN1733,23,72,Medium,High,Yes,10,99,Yes,2,Medium,High,Private,4,No,Postgraduate,Female,71
+SN1734,25,98,Medium,High,Yes,8,51,Yes,0,Medium,Medium,Private,2,No,College,Female,72
+SN1735,16,83,Medium,Medium,Yes,7,60,Yes,0,High,Medium,Public,1,No,College,Female,66
+SN1736,27,100,Low,Medium,Yes,4,97,Yes,4,Low,High,Public,3,No,High School,Female,74
+SN1737,10,75,Medium,Medium,Yes,4,90,Yes,3,Medium,High,Public,3,Yes,Postgraduate,Male,65
+SN1738,11,78,High,High,No,8,63,Yes,1,Low,Medium,Public,3,No,High School,Female,64
+SN1739,21,73,High,Medium,Yes,8,99,Yes,1,Medium,High,Public,4,No,College,Male,69
+SN1740,20,67,Medium,Medium,No,6,93,No,1,Low,Medium,Public,3,Yes,College,Male,62
+SN1741,16,66,Medium,Medium,Yes,7,53,Yes,2,Medium,Medium,Public,2,No,Postgraduate,Male,62
+SN1742,25,98,Low,Low,Yes,7,91,Yes,2,Low,Low,Public,3,No,Postgraduate,Female,72
+SN1743,23,99,Medium,High,No,7,89,Yes,1,Medium,Medium,Public,3,No,High School,Female,73
+SN1744,25,62,Medium,Low,No,6,61,Yes,1,Medium,Medium,Public,4,No,Postgraduate,Female,64
+SN1745,19,66,Medium,Medium,No,8,83,Yes,2,Medium,High,Public,3,No,High School,Female,65
+SN1746,24,77,High,High,Yes,9,99,Yes,1,Low,Medium,Public,1,No,High School,Male,70
+SN1747,17,67,Medium,Medium,Yes,6,84,Yes,1,High,High,Public,3,No,Postgraduate,Female,66
+SN1748,32,75,Low,High,No,5,91,Yes,1,High,Medium,Public,2,No,College,Female,70
+SN1749,15,65,Medium,High,Yes,6,55,Yes,2,Medium,Medium,Private,3,No,High School,Female,63
+SN1750,33,78,Low,Low,No,7,86,Yes,1,Low,High,Public,4,No,High School,Male,69
+SN1751,20,71,High,Medium,Yes,8,60,Yes,0,Medium,Medium,Public,2,No,High School,Male,64
+SN1752,12,74,Low,Medium,No,8,54,Yes,2,Medium,Medium,Private,5,No,Postgraduate,Female,63
+SN1753,28,64,Medium,Medium,No,8,78,Yes,2,Medium,Medium,Private,3,No,Postgraduate,Male,66
+SN1754,21,77,Medium,Medium,Yes,8,88,Yes,2,High,Medium,Private,1,No,College,Female,68
+SN1755,25,99,Medium,Medium,Yes,7,77,Yes,0,High,High,Public,3,No,High School,Male,97
+SN1756,27,73,Low,Low,No,9,97,Yes,2,Medium,High,Public,1,No,High School,Female,67
+SN1757,22,95,Medium,Medium,No,7,85,Yes,0,Medium,Medium,Private,4,No,College,Male,71
+SN1758,16,94,Low,Low,Yes,8,56,Yes,2,Low,High,Public,2,No,College,Female,66
+SN1759,26,98,Medium,Low,Yes,7,97,Yes,2,Low,Medium,Public,2,Yes,Postgraduate,Male,72
+SN1760,20,92,High,Medium,Yes,7,58,Yes,2,Low,Low,Public,4,No,Postgraduate,Female,70
+SN1761,24,86,Medium,Medium,Yes,7,88,Yes,1,Low,Medium,Public,3,No,High School,Male,69
+SN1762,7,94,Medium,Low,Yes,9,57,Yes,2,Medium,Medium,Public,3,No,Postgraduate,Female,66
+SN1763,23,63,High,High,No,7,100,Yes,2,Medium,High,Private,3,No,Postgraduate,Female,69
+SN1764,16,79,Medium,Medium,Yes,6,67,No,2,Medium,High,Private,3,No,College,Male,65
+SN1765,30,100,High,High,No,6,75,Yes,0,Low,Medium,Public,4,No,College,Female,75
+SN1766,24,91,Low,Medium,No,8,73,Yes,2,Low,High,Private,2,No,Postgraduate,Male,70
+SN1767,21,98,High,Low,Yes,6,55,Yes,1,Medium,Medium,Public,3,No,High School,Male,70
+SN1768,23,91,Medium,High,Yes,7,75,Yes,2,Low,High,Public,2,No,High School,Male,69
+SN1769,14,95,High,Medium,No,7,57,Yes,2,Low,Low,Public,2,No,College,Female,68
+SN1770,30,88,Low,Medium,Yes,6,90,Yes,4,High,Medium,Private,2,No,College,Male,73
+SN1771,32,90,Medium,Medium,Yes,5,98,Yes,0,Medium,High,Public,3,No,College,Male,74
+SN1772,22,81,Low,Low,No,5,90,Yes,0,High,Medium,Public,2,No,College,Female,66
+SN1773,30,97,High,Medium,Yes,6,72,Yes,1,Low,High,Public,2,No,High School,Female,74
+SN1774,17,93,Medium,Low,Yes,5,50,Yes,3,High,Medium,Public,2,No,High School,Male,67
+SN1775,15,94,High,Medium,Yes,8,52,Yes,1,Medium,Medium,Private,2,No,College,Female,67
+SN1776,20,87,Medium,High,No,10,75,Yes,3,Medium,Medium,Private,2,No,College,Female,70
+SN1777,23,72,Low,High,Yes,6,84,Yes,1,High,High,Public,2,No,High School,Male,67
+SN1778,18,61,Medium,Low,Yes,6,91,Yes,3,Medium,High,Public,3,No,College,Female,80
+SN1779,23,97,Medium,High,Yes,6,80,Yes,1,Low,Low,Public,2,No,College,Male,70
+SN1780,22,83,High,Medium,No,8,99,Yes,4,High,High,Public,4,Yes,High School,Female,71
+SN1781,14,72,Medium,Low,No,8,75,Yes,4,High,Medium,Private,2,Yes,College,Male,64
+SN1782,23,66,High,High,Yes,7,80,Yes,1,Medium,Medium,Public,3,No,College,Female,68
+SN1783,25,93,Medium,Medium,No,5,62,Yes,0,Low,Medium,Public,3,No,High School,Male,68
+SN1784,21,93,Medium,Medium,Yes,6,67,No,1,High,Medium,Public,3,No,High School,Female,69
+SN1785,27,93,High,Low,Yes,7,84,Yes,1,Medium,Medium,Private,2,No,Postgraduate,Male,72
+SN1786,13,86,Medium,Medium,No,7,80,Yes,0,Low,Medium,Private,5,No,College,Male,65
+SN1787,23,75,Low,Low,Yes,7,68,Yes,1,High,Low,Private,4,Yes,High School,Male,64
+SN1788,13,72,Medium,High,No,8,56,Yes,1,Low,High,Public,4,No,Postgraduate,Female,64
+SN1789,13,60,Low,Medium,No,5,67,Yes,1,Low,Medium,Public,4,Yes,High School,Male,58
+SN1790,16,93,High,Medium,Yes,7,52,Yes,2,Medium,High,Public,3,No,High School,Male,69
+SN1791,14,63,High,Low,No,7,79,Yes,1,Low,Medium,Public,3,No,High School,Male,61
+SN1792,17,85,High,High,Yes,6,66,Yes,0,Medium,High,Public,2,No,College,Female,68
+SN1793,19,80,High,Medium,Yes,6,69,Yes,1,Low,Low,Private,4,Yes,College,Male,66
+SN1794,25,81,Medium,Medium,No,8,79,Yes,1,Medium,Medium,Public,4,No,College,Female,68
+SN1795,18,97,Low,High,No,5,79,Yes,2,Low,High,Public,3,No,College,Male,70
+SN1796,10,61,High,Low,Yes,10,79,Yes,4,High,High,Public,2,Yes,College,Male,62
+SN1797,27,91,Medium,Medium,No,8,75,Yes,2,Medium,High,Private,3,No,High School,Male,71
+SN1798,15,62,Medium,Medium,No,7,74,Yes,0,Low,High,Public,3,No,Postgraduate,Female,61
+SN1799,20,62,High,Medium,Yes,7,91,Yes,1,Medium,Low,Public,3,No,College,Male,64
+SN1800,23,77,Medium,Low,No,8,73,Yes,1,Low,Low,Public,2,No,College,Male,65
+SN1801,21,63,Low,Medium,Yes,6,77,Yes,3,Medium,High,Public,1,No,High School,Male,63
+SN1802,27,92,High,Medium,Yes,6,99,Yes,4,Low,Low,Private,3,No,High School,Female,74
+SN1803,23,81,Medium,High,No,9,59,Yes,2,Medium,High,Public,2,No,College,Male,68
+SN1804,15,61,High,Medium,Yes,6,86,Yes,2,High,High,Public,3,No,High School,Female,65
+SN1805,33,62,Medium,Medium,No,7,74,Yes,2,Medium,Medium,Public,2,No,College,Male,66
+SN1806,21,85,Medium,High,Yes,6,92,Yes,1,Medium,High,Public,2,Yes,High School,Male,69
+SN1807,19,92,Low,Medium,Yes,7,70,Yes,2,High,Medium,Private,2,No,College,Male,69
+SN1808,26,78,High,Medium,No,8,65,Yes,3,Medium,Medium,Public,3,No,College,Female,70
+SN1809,21,82,Medium,Medium,Yes,10,60,Yes,3,High,High,Public,4,No,High School,Female,70
+SN1810,22,92,Medium,Medium,Yes,6,94,Yes,1,Medium,Medium,Public,3,No,High School,Male,71
+SN1811,35,84,Medium,Medium,No,5,86,Yes,1,Medium,Medium,Public,3,No,High School,Female,72
+SN1812,18,69,Medium,Low,No,7,54,Yes,1,Low,High,Public,4,No,High School,Male,61
+SN1813,18,85,Medium,High,Yes,6,86,No,1,Medium,Medium,Private,3,No,High School,Female,68
+SN1814,21,85,Medium,Low,Yes,7,52,Yes,3,Low,Medium,Private,3,No,High School,Male,66
+SN1815,26,89,Medium,Medium,Yes,8,59,Yes,1,Low,High,Public,4,No,High School,Male,70
+SN1816,11,85,Medium,Low,No,10,80,No,0,Low,High,Public,3,No,College,Female,63
+SN1817,8,99,Medium,High,Yes,6,73,Yes,1,Medium,,Public,3,No,High School,Female,68
+SN1818,16,68,Low,Medium,Yes,4,92,No,1,Medium,Medium,Public,4,No,College,Male,62
+SN1819,10,98,Medium,High,No,7,80,Yes,3,Medium,Medium,Private,3,No,College,Male,69
+SN1820,17,82,Medium,Medium,Yes,8,98,Yes,3,Medium,High,Public,4,No,High School,Male,69
+SN1821,23,87,Medium,Low,Yes,6,93,Yes,1,High,High,Private,4,No,Postgraduate,Female,72
+SN1822,15,64,High,Medium,Yes,7,67,Yes,2,Low,High,Public,3,No,High School,Male,64
+SN1823,11,75,Low,Medium,No,7,92,No,2,Low,High,Public,4,No,College,Female,63
+SN1824,20,91,Medium,Medium,Yes,7,93,Yes,1,Low,Medium,Public,3,No,Postgraduate,Male,70
+SN1825,25,88,Low,Medium,Yes,8,98,No,1,Low,Low,Private,4,No,Postgraduate,Male,69
+SN1826,10,62,High,High,No,7,51,Yes,1,Medium,High,Private,2,No,High School,Male,61
+SN1827,25,82,High,High,No,8,94,Yes,2,Low,Medium,Public,3,No,High School,Male,70
+SN1828,25,64,Medium,Medium,Yes,4,53,Yes,1,Medium,Medium,Public,2,No,College,Male,64
+SN1829,26,100,High,High,Yes,6,76,Yes,0,Medium,High,Public,4,No,Postgraduate,Male,76
+SN1830,27,96,Medium,Medium,Yes,6,71,Yes,2,Medium,Medium,Public,2,No,College,Female,73
+SN1831,33,61,Low,Low,Yes,5,96,Yes,2,Medium,,Public,3,No,High School,Male,67
+SN1832,18,94,Medium,Medium,Yes,7,70,No,2,Medium,High,Public,3,No,College,Female,69
+SN1833,21,97,Medium,Medium,Yes,6,80,Yes,2,Medium,Medium,Private,4,No,College,Male,72
+SN1834,18,74,Medium,Medium,No,6,85,Yes,4,Medium,Medium,Private,3,No,College,Female,66
+SN1835,20,89,Medium,Medium,Yes,8,51,Yes,3,Medium,High,Public,3,No,Postgraduate,Female,70
+SN1836,29,78,Medium,High,Yes,7,80,Yes,2,Medium,Medium,Public,4,No,Postgraduate,Female,73
+SN1837,12,86,High,Medium,Yes,5,76,No,2,High,Medium,Public,3,No,Postgraduate,Female,68
+SN1838,15,74,Medium,High,No,6,80,Yes,2,High,Medium,Public,3,No,Postgraduate,Male,66
+SN1839,28,73,Low,Medium,Yes,8,54,Yes,4,Medium,Medium,Private,1,No,High School,Female,67
+SN1840,26,77,Medium,Low,No,7,53,No,3,Medium,High,Private,3,No,High School,Female,67
+SN1841,18,66,Medium,High,Yes,9,59,No,0,Low,Medium,Private,3,No,High School,Male,62
+SN1842,25,93,Low,Medium,No,8,93,Yes,2,Medium,Medium,Public,3,No,College,Male,72
+SN1843,22,74,Low,High,Yes,6,68,Yes,0,Medium,Low,Public,4,No,High School,Male,65
+SN1844,29,76,Medium,Low,Yes,9,72,Yes,1,High,Medium,Public,3,No,High School,Male,69
+SN1845,20,96,Medium,High,No,9,70,Yes,2,Low,Low,Public,2,Yes,High School,Male,69
+SN1846,26,80,High,Medium,Yes,4,86,No,0,Low,Medium,Public,4,No,College,Male,69
+SN1847,36,82,Low,Low,Yes,7,63,Yes,0,Medium,Medium,Private,3,No,High School,Male,69
+SN1848,24,98,Low,Medium,Yes,6,53,Yes,1,Medium,Low,Public,2,No,High School,Female,69
+SN1849,20,95,Medium,High,Yes,7,69,Yes,0,Medium,High,Public,3,No,High School,Male,70
+SN1850,24,67,High,Low,No,6,86,Yes,6,Low,Medium,Private,3,Yes,Postgraduate,Female,67
+SN1851,18,79,Medium,High,Yes,6,96,Yes,3,Medium,Low,Public,3,Yes,Postgraduate,Male,69
+SN1852,34,99,Medium,Medium,Yes,8,53,Yes,0,Medium,High,Public,5,No,College,Male,75
+SN1853,21,75,Low,Medium,Yes,5,91,Yes,2,Low,Low,Public,3,No,High School,Male,66
+SN1854,18,75,Medium,Low,Yes,7,53,Yes,0,High,High,Public,2,No,High School,Male,63
+SN1855,15,68,Medium,Medium,Yes,5,67,Yes,3,Medium,High,Private,4,No,Postgraduate,Male,64
+SN1856,27,65,Medium,Medium,Yes,9,51,Yes,2,High,Medium,Private,2,No,Postgraduate,Female,66
+SN1857,25,90,Medium,Medium,Yes,7,96,Yes,1,Medium,Medium,Public,4,No,College,Male,72
+SN1858,17,91,Medium,High,No,8,85,Yes,3,Medium,High,Public,4,No,College,Female,71
+SN1859,23,99,Low,Medium,Yes,7,68,Yes,0,High,High,Private,2,No,High School,Male,70
+SN1860,11,91,High,Medium,No,7,69,Yes,2,Low,Medium,Private,2,No,College,Male,67
+SN1861,21,70,Medium,Low,No,7,82,Yes,0,High,High,Public,3,No,High School,Female,65
+SN1862,23,62,High,High,Yes,9,54,Yes,3,Low,Medium,Private,4,No,High School,Male,65
+SN1863,30,99,Medium,Medium,Yes,6,57,Yes,0,Low,Medium,Public,4,No,Postgraduate,Male,73
+SN1864,15,74,Medium,Medium,Yes,4,92,Yes,1,Medium,Medium,Private,3,No,Postgraduate,Male,66
+SN1865,12,72,Low,Medium,Yes,6,60,Yes,0,Low,Medium,Public,4,No,Postgraduate,Male,62
+SN1866,15,96,Medium,High,No,5,86,Yes,2,High,Medium,Private,2,No,High School,Male,71
+SN1867,12,83,Medium,High,No,8,61,Yes,3,High,Medium,Public,5,Yes,High School,Male,66
+SN1868,28,69,High,High,Yes,7,54,No,1,Low,Medium,Public,2,No,College,Male,65
+SN1869,29,96,Medium,High,Yes,8,95,Yes,0,High,Medium,Private,2,No,High School,Female,75
+SN1870,22,100,High,Medium,No,7,95,Yes,2,Low,Medium,Public,4,No,College,Male,74
+SN1871,27,63,Medium,Low,Yes,7,80,Yes,1,Medium,High,Private,3,No,High School,Male,65
+SN1872,21,94,Medium,Medium,No,7,73,Yes,2,Low,Medium,Private,3,No,Postgraduate,Female,71
+SN1873,19,76,High,Low,Yes,9,78,Yes,1,Low,Medium,Public,1,No,Postgraduate,Female,65
+SN1874,18,81,Medium,Low,Yes,7,70,Yes,0,Low,Medium,Private,2,No,College,Male,65
+SN1875,18,97,Medium,Low,No,9,88,Yes,0,Low,Medium,Public,4,No,High School,Female,67
+SN1876,11,99,Medium,Low,Yes,9,88,Yes,2,Low,Medium,Public,2,No,High School,Male,67
+SN1877,22,70,Medium,Medium,No,7,91,Yes,2,Medium,Medium,Public,1,No,High School,Male,66
+SN1878,20,69,High,Medium,Yes,7,76,Yes,1,Medium,Medium,Public,3,No,High School,Female,67
+SN1879,24,63,Medium,Medium,No,6,90,No,2,Low,Medium,Private,5,No,Postgraduate,Female,66
+SN1880,21,82,Low,High,No,9,58,Yes,0,Medium,Medium,Public,2,No,High School,Male,65
+SN1881,19,61,High,Medium,Yes,6,52,No,1,Low,Medium,Public,3,No,High School,Female,59
+SN1882,15,76,High,High,Yes,6,82,Yes,4,Low,High,Private,4,No,High School,Female,69
+SN1883,20,63,Medium,Medium,No,7,55,Yes,2,Low,High,Public,3,No,High School,Male,63
+SN1884,24,76,Low,Medium,No,5,78,Yes,1,Medium,Medium,Private,4,Yes,High School,Male,65
+SN1885,13,62,Medium,Low,No,6,86,Yes,2,Low,Medium,Public,4,No,High School,Male,61
+SN1886,21,93,Low,Medium,No,9,70,Yes,0,Medium,High,Public,1,No,Postgraduate,Female,68
+SN1887,21,68,Medium,High,Yes,8,52,Yes,3,Low,Medium,Public,2,No,College,Male,65
+SN1888,16,73,Low,Low,No,6,94,No,1,Low,Medium,Private,2,No,College,Female,61
+SN1889,16,95,Medium,High,Yes,8,52,Yes,0,Low,Medium,Private,3,No,Postgraduate,Male,69
+SN1890,21,90,Low,Medium,Yes,10,95,Yes,2,High,High,Private,4,No,College,Male,72
+SN1891,13,69,Medium,Low,Yes,7,53,No,2,Medium,Medium,Private,3,Yes,High School,Female,59
+SN1892,22,63,Medium,Medium,No,9,87,Yes,0,High,High,Public,2,No,College,Female,63
+SN1893,15,89,Medium,Medium,Yes,8,96,Yes,3,Low,High,Public,3,No,High School,Male,69
+SN1894,26,76,Low,Low,No,7,95,Yes,1,Low,High,Public,1,No,Postgraduate,Male,67
+SN1895,34,91,Low,Medium,No,7,95,No,1,Medium,Medium,Public,3,Yes,College,Male,70
+SN1896,15,78,Medium,High,No,8,94,Yes,0,Low,Medium,Private,4,No,Postgraduate,Male,67
+SN1897,23,74,Medium,Medium,Yes,6,76,No,1,Low,Medium,Public,2,No,College,Male,66
+SN1898,16,78,Medium,Medium,Yes,4,78,Yes,5,High,Medium,Public,3,No,High School,Female,68
+SN1899,26,90,Low,High,Yes,6,81,Yes,1,Low,Medium,Private,3,No,Postgraduate,Male,71
+SN1900,12,96,High,Medium,No,4,95,Yes,3,Medium,Medium,Private,0,Yes,High School,Male,69
+SN1901,23,62,High,Medium,Yes,6,92,Yes,0,High,Medium,Public,2,No,,Male,65
+SN1902,15,81,Medium,Medium,No,4,89,Yes,0,Low,Medium,Private,3,No,Postgraduate,Female,66
+SN1903,19,61,Medium,High,Yes,8,84,Yes,2,Medium,High,Public,4,No,High School,Male,66
+SN1904,14,79,High,Medium,No,5,81,Yes,3,High,Medium,Public,3,No,High School,Female,67
+SN1905,25,95,High,Medium,Yes,8,96,Yes,1,Medium,Medium,Public,4,No,Postgraduate,Male,74
+SN1906,15,74,High,High,No,8,60,Yes,3,Low,Medium,Public,5,No,High School,Male,66
+SN1907,23,97,Medium,High,Yes,8,60,Yes,1,Medium,High,Public,3,No,College,Male,72
+SN1908,18,85,High,Low,Yes,4,99,Yes,0,Low,Medium,Private,4,No,College,Male,69
+SN1909,19,97,Low,High,No,9,78,Yes,0,Medium,Medium,Private,4,No,High School,Female,68
+SN1910,21,90,Medium,High,Yes,8,74,Yes,4,Low,Medium,Private,3,No,High School,Male,71
+SN1911,15,64,Medium,Medium,No,8,93,Yes,0,Low,Medium,Public,2,No,High School,Female,61
+SN1912,21,69,Medium,Medium,Yes,10,92,Yes,2,Low,Medium,Private,3,No,High School,Male,65
+SN1913,29,76,Medium,High,Yes,8,59,Yes,4,Low,High,Public,2,No,Postgraduate,Male,71
+SN1914,15,67,Low,Medium,Yes,5,59,Yes,0,Low,Medium,Private,3,No,High School,Male,59
+SN1915,27,80,High,Medium,No,8,90,Yes,1,Medium,High,Public,3,No,Postgraduate,Female,71
+SN1916,29,79,Medium,High,No,5,89,Yes,0,High,High,Public,3,No,Postgraduate,Female,72
+SN1917,15,98,High,High,Yes,7,61,Yes,1,Low,High,Private,3,No,College,Female,71
+SN1918,11,77,Low,Low,Yes,6,92,Yes,0,Low,Medium,Public,5,No,High School,Male,61
+SN1919,22,91,Medium,Medium,No,7,74,Yes,1,Medium,Medium,Private,2,Yes,College,Female,67
+SN1920,17,98,Medium,Medium,No,5,73,Yes,0,Low,High,Public,2,No,College,Male,67
+SN1921,31,95,Medium,Medium,No,5,99,Yes,1,Medium,Medium,Private,4,No,High School,Female,74
+SN1922,20,68,High,High,No,6,76,Yes,2,Medium,Medium,Public,3,No,High School,Female,66
+SN1923,15,80,Medium,Medium,Yes,7,57,Yes,1,Low,Medium,Private,4,No,High School,Male,63
+SN1924,13,74,Medium,Medium,No,6,64,Yes,4,High,High,Private,3,Yes,High School,Male,63
+SN1925,27,76,High,High,No,9,67,Yes,1,Low,Medium,Public,4,No,High School,Female,68
+SN1926,17,74,Medium,Low,Yes,8,98,Yes,1,High,High,Public,3,No,High School,Female,65
+SN1927,20,93,Medium,Low,No,8,63,Yes,0,Low,High,Public,3,No,High School,Male,66
+SN1928,26,78,Medium,Medium,No,6,72,Yes,1,Low,,Private,3,No,High School,Female,67
+SN1929,17,81,Medium,Medium,No,5,87,Yes,0,Low,High,Private,2,No,College,Female,67
+SN1930,20,99,Medium,Low,Yes,7,64,Yes,0,Medium,Medium,Public,4,No,High School,Male,70
+SN1931,20,62,Low,Medium,Yes,10,85,Yes,5,Low,Medium,Private,4,No,High School,Male,65
+SN1932,24,80,Medium,Medium,Yes,7,60,Yes,1,High,High,Public,3,No,High School,Female,68
+SN1933,24,91,Medium,High,Yes,9,62,Yes,3,Low,Medium,Public,4,No,College,Male,70
+SN1934,19,66,High,Low,No,9,99,Yes,1,Medium,Medium,Public,3,No,College,Male,66
+SN1935,20,84,High,Medium,Yes,8,68,Yes,0,Low,Medium,Private,4,No,Postgraduate,Male,69
+SN1936,18,70,Medium,Medium,No,7,86,Yes,1,High,Medium,Public,2,No,High School,Female,65
+SN1937,11,95,Medium,Medium,Yes,6,92,No,2,Medium,Low,Public,3,No,Postgraduate,Female,68
+SN1938,22,73,Low,Medium,Yes,7,67,Yes,3,High,Medium,Private,2,No,High School,Male,65
+SN1939,31,73,Medium,High,Yes,6,68,Yes,1,Medium,Medium,Public,3,No,High School,Female,70
+SN1940,15,84,Low,Low,Yes,7,89,Yes,1,Low,High,Public,3,No,High School,Female,65
+SN1941,15,67,High,Medium,Yes,5,80,Yes,3,Medium,High,Public,4,No,College,Male,67
+SN1942,15,71,High,Low,No,6,68,No,5,Low,Medium,Public,4,No,College,Female,64
+SN1943,24,77,Medium,Medium,No,8,87,Yes,2,Low,Medium,Public,1,Yes,Postgraduate,Female,68
+SN1944,23,74,Medium,High,Yes,6,93,Yes,4,High,Medium,Private,3,No,High School,Female,70
+SN1945,19,81,Low,High,Yes,6,62,No,1,Medium,Low,Public,3,No,High School,Female,64
+SN1946,14,84,High,Medium,No,6,51,Yes,4,High,Medium,Public,3,No,High School,Male,67
+SN1947,21,83,High,High,No,7,64,Yes,2,Medium,Low,Private,2,No,High School,Male,68
+SN1948,11,86,Medium,Medium,Yes,4,84,Yes,5,Low,High,Public,4,Yes,High School,Male,67
+SN1949,21,72,Medium,Low,Yes,6,96,Yes,4,High,Medium,Public,2,Yes,College,Female,66
+SN1950,25,65,Medium,High,Yes,8,93,No,2,Medium,Medium,Public,3,No,College,Female,66
+SN1951,12,90,Medium,Low,Yes,7,61,Yes,2,Low,High,Private,2,No,High School,Male,66
+SN1952,11,94,Low,Low,Yes,8,94,Yes,2,Low,Medium,Public,2,No,College,Male,67
+SN1953,29,70,Medium,Medium,Yes,4,91,Yes,2,Low,Medium,Public,3,No,College,Male,69
+SN1954,16,76,Low,Medium,No,6,87,Yes,3,Low,Medium,Private,4,No,College,Female,65
+SN1955,27,80,Low,Low,Yes,7,84,Yes,4,Low,Medium,Public,3,No,College,Male,68
+SN1956,19,81,Low,High,No,8,90,Yes,2,Low,Medium,Private,3,No,High School,Female,67
+SN1957,19,86,Medium,Medium,Yes,9,93,Yes,1,Low,High,Public,3,No,College,Male,69
+SN1958,23,62,Medium,Medium,No,8,91,No,3,High,Low,Public,3,No,High School,Male,64
+SN1959,15,89,Medium,Medium,No,6,56,Yes,2,Medium,Medium,Public,4,No,College,Male,67
+SN1960,21,62,High,Medium,No,6,86,Yes,2,Medium,High,Private,4,No,High School,Female,67
+SN1961,18,79,Medium,High,No,9,92,Yes,1,Low,Medium,Private,3,No,College,Male,67
+SN1962,12,93,Medium,High,No,6,59,Yes,2,Low,Medium,Private,3,No,High School,Female,67
+SN1963,22,78,Medium,High,Yes,5,61,Yes,2,Low,Medium,Public,4,No,College,Male,68
+SN1964,18,66,Medium,Medium,Yes,7,89,Yes,4,Low,Medium,Public,3,Yes,High School,Male,65
+SN1965,19,99,Low,High,No,9,67,Yes,3,High,Medium,Public,1,No,College,Male,70
+SN1966,13,96,Medium,Medium,No,6,70,Yes,1,Low,High,Public,3,No,College,Female,68
+SN1967,30,91,High,Low,Yes,6,69,Yes,2,Medium,High,Public,4,No,High School,Female,72
+SN1968,25,76,Medium,High,No,6,61,Yes,1,Medium,Medium,Public,3,No,Postgraduate,Male,67
+SN1969,26,67,High,Low,Yes,8,97,Yes,2,Medium,Medium,Public,0,No,High School,Female,66
+SN1970,18,98,Low,Low,Yes,7,90,Yes,0,High,High,Private,1,No,High School,Male,68
+SN1971,10,81,Medium,High,No,8,63,Yes,1,Low,Low,Public,2,No,,Male,64
+SN1972,32,94,Medium,High,Yes,9,55,Yes,4,Medium,Medium,Private,2,Yes,High School,Male,75
+SN1973,20,74,High,Low,Yes,5,69,Yes,1,Medium,Medium,Public,4,No,College,Female,66
+SN1974,16,73,High,High,Yes,6,71,Yes,0,Low,Medium,Public,4,No,Postgraduate,Male,67
+SN1975,23,99,High,High,No,6,50,No,1,High,Medium,Private,5,Yes,High School,Male,71
+SN1976,27,81,Low,High,No,7,94,Yes,0,Low,Medium,Public,4,No,College,Male,68
+SN1977,20,66,Medium,Medium,Yes,8,93,Yes,2,Low,High,Public,3,No,High School,Male,65
+SN1978,28,69,Low,High,Yes,6,93,Yes,0,High,Low,Public,3,No,College,Male,67
+SN1979,26,79,Low,High,Yes,6,90,No,0,High,Medium,Private,2,Yes,College,Male,66
+SN1980,14,62,Low,Medium,No,8,87,Yes,1,Medium,Medium,Public,1,No,High School,Male,60
+SN1981,16,79,Medium,Medium,No,8,82,Yes,2,Low,Medium,Private,3,Yes,Postgraduate,Female,64
+SN1982,26,77,Medium,Medium,Yes,7,98,Yes,0,High,Medium,Public,1,No,Postgraduate,Male,69
+SN1983,4,91,Medium,Medium,No,4,86,Yes,3,Low,Medium,Private,4,Yes,College,Male,64
+SN1984,19,74,Medium,High,No,9,82,Yes,2,Low,Medium,Private,3,No,High School,Male,66
+SN1985,11,99,High,Medium,Yes,7,89,Yes,3,Low,Medium,Public,3,No,College,Male,72
+SN1986,17,67,Low,Low,Yes,7,62,Yes,0,Low,Medium,Public,4,No,High School,Female,60
+SN1987,18,84,Low,High,Yes,6,98,Yes,3,Medium,Medium,Public,3,No,High School,Male,69
+SN1988,18,64,Medium,Medium,Yes,6,51,Yes,2,Low,Medium,Public,1,No,High School,Female,62
+SN1989,17,89,Medium,Medium,Yes,6,82,Yes,3,Medium,Medium,Private,3,No,College,Female,70
+SN1990,13,100,Low,Low,Yes,4,54,Yes,3,Low,Low,Public,2,No,High School,Female,65
+SN1991,34,93,High,Medium,Yes,6,93,Yes,2,Low,High,Public,4,No,High School,Male,77
