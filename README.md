@@ -198,6 +198,10 @@ This project helps educational institutions identify performance gaps, understan
 
 <br>
 
+## 📊 Dashboard Preview
+
+![Dashboard Preview](Dashboard.png)
+
 <h2>🧠 Conclusion</h2>
 
 <div style="height:2px;background-color:black;"></div>
